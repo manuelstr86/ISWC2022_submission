@@ -1,8 +1,4 @@
-# Questo programma legge le descrizioni delle opere d'arte da analizzare da un file JSON
-#       e scrive per ogni artwork il suo prototipo.
-#
-# Per ogni artwork (es. quadro/video/serie tv) vengono analizzate tutte le istanze (es. episodi di una serie)
-#       (es. il dipinto della Gioconda è l'unica istanza dell'artwork "La Gioconda")
+
 import nltk
 import treetaggerwrapper
 from nltk.tokenize import sent_tokenize, word_tokenize
