@@ -1,0 +1,4 @@
+immagine:             0.9
+intenso:              0.9
+disturbare:           0.9
+parassita:            0.9

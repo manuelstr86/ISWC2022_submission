@@ -1,0 +1,9 @@
+to:                   0.9
+chaos:                0.6
+and:                  0.6
+dreams:               0.6
+yet:                  0.6
+is:                   0.6
+attempt:              0.6
+an:                   0.6
+visualise:            0.6

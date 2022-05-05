@@ -1,0 +1,2 @@
+song:                 0.9
+childbirth:           0.6

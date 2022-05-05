@@ -1,0 +1,9 @@
+paesaggio:            0.9
+castello:             0.6
+casa:                 0.6
+villaggio:            0.6
+geometria:            0.6
+geometrizzazione:     0.6
+figurina:             0.6
+filari:               0.9
+tono_su_tono:         0.9

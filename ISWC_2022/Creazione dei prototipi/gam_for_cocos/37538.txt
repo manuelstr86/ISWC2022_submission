@@ -1,0 +1,3 @@
+passione:             0.9
+arco:                 0.9
+giovanna:             0.9

@@ -1,0 +1,3 @@
+nocturne:             0.9
+right:                0.9
+bank:                 0.9

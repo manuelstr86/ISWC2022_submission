@@ -1,0 +1,7 @@
+the:                  0.9
+sea:                  0.9
+to:                   0.6
+bordering:            0.6
+identifications:      0.6
+gerry:                0.6
+schum:                0.6

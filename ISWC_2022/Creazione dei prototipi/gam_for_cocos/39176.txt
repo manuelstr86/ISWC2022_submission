@@ -1,0 +1,5 @@
+studio:               0.9
+gesù:                 0.9
+terza|terzo:          0.9
+cadere:               0.9
+volta:                0.9

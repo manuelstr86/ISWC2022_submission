@@ -1,0 +1,3 @@
+television:           0.9
+delivers:             0.9
+people:               0.9

@@ -1,0 +1,5 @@
+gazza:                0.9
+ladra:                0.9
+omaggio:              0.9
+contenere:            0.9
+rossini:              0.9

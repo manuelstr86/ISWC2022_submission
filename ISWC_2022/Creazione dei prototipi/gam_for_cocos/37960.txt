@@ -1,0 +1,4 @@
+non-dairy:            0.9
+red:                  0.9
+contenere:            0.9
+tape:                 0.9

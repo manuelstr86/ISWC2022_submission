@@ -1,0 +1,4 @@
+rumore:               0.9
+tempo:                0.9
+bologna:              0.9
+settembre:            0.9

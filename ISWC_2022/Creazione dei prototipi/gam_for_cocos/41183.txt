@@ -1,0 +1,4 @@
+schnitte:             0.9
+elemente:             0.9
+anschauung:           0.9
+der:                  0.9

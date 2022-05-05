@@ -1,0 +1,2 @@
+hotel:                0.9
+monterey:             0.9

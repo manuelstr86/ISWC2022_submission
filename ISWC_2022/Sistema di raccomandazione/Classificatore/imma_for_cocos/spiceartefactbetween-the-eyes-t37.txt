@@ -1,0 +1,14 @@
+is:                   0.9
+between:              0.6
+the:                  0.6
+eyes:                 0.6
+t37:                  0.6
+work:                 0.6
+by:                   0.6
+richard:              0.6
+it:                   0.6
+deacon:               0.6
+not:                  0.6
+currently:            0.6
+on:                   0.6
+display:              0.6

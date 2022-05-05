@@ -1,0 +1,4 @@
+the:                  0.9
+space:                0.6
+between:              0.6
+teeth:                0.6

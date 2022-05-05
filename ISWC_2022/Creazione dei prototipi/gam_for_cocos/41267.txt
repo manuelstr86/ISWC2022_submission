@@ -1,0 +1,7 @@
+compression:          0.9
+poison:               0.9
+oak:                  0.9
+opera:                0.9
+aspen:                0.9
+contenere:            0.9
+projects:             0.9

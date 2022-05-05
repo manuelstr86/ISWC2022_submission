@@ -1,0 +1,6 @@
+pupa:                 0.9
+quae:                 0.9
+etiam:                0.9
+carne:                0.9
+humana:               0.9
+vecitur:              0.9

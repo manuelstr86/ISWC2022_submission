@@ -1,0 +1,6 @@
+ohio:                 0.9
+to:                   0.9
+giverny:              0.9
+memory:               0.9
+of:                   0.9
+light:                0.9

@@ -1,0 +1,2 @@
+facing:               0.9
+family:               0.9

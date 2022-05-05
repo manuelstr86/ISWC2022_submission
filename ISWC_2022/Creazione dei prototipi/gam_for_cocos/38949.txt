@@ -1,0 +1,2 @@
+cantu:                0.9
+anticu:               0.9

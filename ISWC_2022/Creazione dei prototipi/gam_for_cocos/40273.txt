@@ -1,0 +1,4 @@
+lieto:                0.9
+fine:                 0.9
+libro:                0.9
+bianco:               0.9

@@ -1,0 +1,2 @@
+twopence:             0.9
+magic:                0.9

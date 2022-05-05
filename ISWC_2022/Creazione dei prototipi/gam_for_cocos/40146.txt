@@ -1,0 +1,8 @@
+unrelling:            0.9
+event:                0.9
+fluxfilm:             0.9
+contenere:            0.9
+anthology:            0.9
+george:               0.9
+maciunas:             0.9
+fluxus:               0.9

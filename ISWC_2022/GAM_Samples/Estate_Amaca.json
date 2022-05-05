@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/EstateAmaca",
+      "@type":"schema:CreativeWork",
+      "dc:description":"L'inizio degli anni Trenta segna il ritorno alla pittura di Carena dopo una lunga pausa per malattia. profondamente insofferente alla disciplina formale che la tendenza purista di quegli anni richiedeva, abbandona le grandi composizioni ispirate all'arte italiana del Cinquecento, che avevano definitivamente sancito la sua notorietà, e si volge ad esperienze diverse. L'Estate, in cui l'artista rimedita la lezione courbettiana ed impressionista, costituisce una sorta di termine ultimod'una stagione di pittura esuberante ed ariosa: la sua ricerca si orienterà, infatti, da questo momento, verso rappresentazioni più spirituali ed interiorizzate quali nature morte, ritratti e, soprattutto, composizioni sacre.",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/estate-lamaca",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: primo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Summer - The hammock - Estate - L'amaca, Felice Carena, 1933",
+      "title": "Estate, L'amaca - Felice Carena 1933",
+      "inventary": "Inventario: P/1078",
+      "colletion": "Novecento - primo piano",
+      "Soggetto": "",
+      "author": "Felice Carena, 1933",
+      "year": "1993",
+      "Materiale e Tecnica": "olio su tela",
+      "dimention": "cm 200x156",
+      "definition": "",
+      "Acquisizione": "Acquisto presso la XIX Esposizione Biennale Internazionale d'Arte, venezia, 1934",
+      "Note Blind": "Inventario: P/1078"
+   }
+]
+

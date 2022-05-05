@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/LaRagazzaRossa",
+      "@type":"schema:CreativeWork",
+      "dc:description":"Nella sua attività di scultore prima e, quindi, di pittore, Modigliani ha sempre espresso senza remore la sua passione per la figura, mai rinunciando a ritrarre, in tutta la sua breve vita, amici, poeti, mercanti d'arte, modelle occasionali. Con facilità e spontaneità eccezionali ha tradotto simultaneamente la fisionomia d'un volto, l'espressione dello sguardo, lo stato d'animo, ignorando le leggi della prospettiva e del chiaroscuro. La sua galleria di ritratti, mai dipinti a memoria ma sempre con un modello, ha l'immediatezza e la verità d'un personalissimo diario, perché la libertà d'espressione è sempre autentica e l'esecuzione veloce, affidata al disegno, sottile come in punta di matita, ma acuto e costruttivo.\n\nLaura D'Agostino",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/la-ragazza-rossa-testa-di-donna-dai-capelli-rossi",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"La Ragazza Rossa - Amedeo Modigliani Livorno, 1884 - Parigi, 1920",
+      "title": "La Ragazza Rossa - Amedeo Modigliani Livorno, 1884 - Parigi, 1920",
+      "inventary": "Inventario: S/403",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Amedeo Modigliani Livorno, 1884 - Parigi, 1920",
+      "year": "1983",
+      "Materiale e Tecnica": "olio su tela applicata su tavola",
+      "dimention": "cm 46 x 38",
+      "definition": "",
+      "Acquisizione": "Acquisto da privato, Roma, 2007",
+      "Note Blind": "Inventario: S/403"
+   }
+]
+

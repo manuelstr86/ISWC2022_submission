@@ -1,0 +1,4 @@
+kinetic:              0.9
+sculpture:            0.9
+two:                  0.9
+dimensions:           0.9

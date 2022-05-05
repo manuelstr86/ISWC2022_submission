@@ -1,0 +1,3 @@
+pulcinella:           0.9
+casa:                 0.9
+scoprire:             0.9

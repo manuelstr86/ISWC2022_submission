@@ -1,0 +1,2 @@
+masso:                0.9
+erratico:             0.9

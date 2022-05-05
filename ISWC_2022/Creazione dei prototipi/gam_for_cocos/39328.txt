@@ -1,0 +1,2 @@
+mezzogiorno:          0.9
+meriggio:             0.9

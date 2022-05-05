@@ -1,0 +1,3 @@
+pm:                   0.9
+magazine:             0.9
+rock:                 0.9

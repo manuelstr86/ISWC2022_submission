@@ -1,0 +1,6 @@
+kiss:                 0.9
+the:                  0.9
+girls:                0.9
+make:                 0.9
+them:                 0.9
+cry:                  0.9

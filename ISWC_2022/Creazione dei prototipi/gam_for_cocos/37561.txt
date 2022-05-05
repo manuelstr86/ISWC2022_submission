@@ -1,0 +1,2 @@
+solitudine:           0.9
+femminile:            0.9

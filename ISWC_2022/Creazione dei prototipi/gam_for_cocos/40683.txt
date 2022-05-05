@@ -1,0 +1,2 @@
+bardo:                0.9
+thodol:               0.9

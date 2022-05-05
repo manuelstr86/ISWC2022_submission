@@ -1,0 +1,2 @@
+reinhard:             0.9
+dedicare:             0.9

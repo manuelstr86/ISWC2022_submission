@@ -1,0 +1,8 @@
+of:                   0.9000000000000001
+this:                 0.6
+side:                 0.6
+paradise:             0.6
+fragments:            0.6
+unfinished:           0.6
+an:                   0.6
+biography:            0.6

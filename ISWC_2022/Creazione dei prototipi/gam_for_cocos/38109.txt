@@ -1,0 +1,3 @@
+purely:               0.9
+human:                0.9
+sleep:                0.9

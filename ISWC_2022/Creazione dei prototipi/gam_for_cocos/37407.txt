@@ -1,0 +1,3 @@
+incidence:            0.9
+of:                   0.9
+catastrophe:          0.9

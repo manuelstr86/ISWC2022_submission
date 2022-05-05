@@ -1,0 +1,5 @@
+the:                  0.9
+best:                 0.9
+of:                   0.9
+william:              0.9
+wegman:               0.9

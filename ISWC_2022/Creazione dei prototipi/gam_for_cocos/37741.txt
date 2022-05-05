@@ -1,0 +1,2 @@
+compression:          0.9
+fern:                 0.9

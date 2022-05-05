@@ -1,0 +1,3 @@
+coquille:             0.9
+clergyman:            0.9
+et:                   0.9

@@ -1,0 +1,35 @@
+#Title composizione
+Title : cheating-betrayal
+
+#Concetto Principale
+Head Concept Name : cheating
+
+#Concetto Modificatore
+Modifier Concept Name : betrayal
+
+
+
+T(modifier), row, 0.96
+T(modifier), witnesses, 0.92
+T(modifier), trapped, 0.92
+T(modifier), shoot, 0.91
+T(modifier), waste, 0.9
+T(modifier), temporary, 0.89
+T(modifier), perpetrators, 0.88
+T(modifier), cruel, 0.88
+T(modifier), requested, 0.86
+T(modifier), penalty, 0.86
+
+T(head), girlfriend, 0.94
+T(head), gunfire, 0.92
+T(head), rape, 0.91
+T(head), assassination, 0.88
+T(head), tortured, 0.87
+T(head), witnesses, 0.87
+T(head), cruel, 0.86
+T(head), murdered, 0.86
+T(head), sheriff, 0.86
+T(head), replied, 0.85
+
+
+Result : '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', 1.3571955534911148e-09

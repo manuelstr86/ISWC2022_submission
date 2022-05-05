@@ -1,0 +1,3 @@
+where:                0.9
+flamingos:            0.9
+fly:                  0.9

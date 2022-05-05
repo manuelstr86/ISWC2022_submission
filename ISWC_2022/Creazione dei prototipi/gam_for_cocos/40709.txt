@@ -1,0 +1,5 @@
+water:                0.9
+bending:              0.9
+heart:                0.9
+into:                 0.9
+shape:                0.9

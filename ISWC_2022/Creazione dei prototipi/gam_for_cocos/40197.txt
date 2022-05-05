@@ -1,0 +1,2 @@
+zona:                 0.9
+neutro:               0.9

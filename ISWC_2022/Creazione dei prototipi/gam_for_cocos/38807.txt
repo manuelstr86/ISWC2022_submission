@@ -1,0 +1,4 @@
+daumier:              0.9
+louvre:               0.9
+parliamentarians-the: 0.9
+paris:                0.9

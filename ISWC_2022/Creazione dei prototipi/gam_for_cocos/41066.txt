@@ -1,0 +1,3 @@
+on:                   0.9
+whenever:             0.6
+nohow:                0.6

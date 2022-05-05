@@ -1,0 +1,6 @@
+fast:                 0.9
+cheap:                0.9
+and:                  0.9
+out:                  0.9
+of:                   0.9
+control:              0.9

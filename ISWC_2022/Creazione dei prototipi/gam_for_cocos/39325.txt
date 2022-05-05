@@ -1,0 +1,10 @@
+geringste:            0.9
+der:                  0.9
+wieiderstand:         0.9
+moindre:              0.9
+résistance:           0.9
+versione:             0.9
+originale:            0.9
+tedesco:              0.9
+sottotitolo:          0.9
+francese:             0.9

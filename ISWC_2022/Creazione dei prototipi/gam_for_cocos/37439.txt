@@ -1,0 +1,7 @@
+the:                  0.9
+calder:               0.6
+alexander:            0.6
+from:                 0.6
+circus:               0.6
+to:                   0.6
+moon:                 0.6

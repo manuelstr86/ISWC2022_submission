@@ -1,0 +1,9 @@
+song:                 0.9
+fires:                0.9
+windows:              0.9
+insect:               0.9
+an:                   0.9
+lyre:                 0.9
+of:                   0.9
+scratches:            0.9
+rain:                 0.9

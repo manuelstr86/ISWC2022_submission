@@ -1,0 +1,3 @@
+asino:                0.9
+albino:               0.9
+rex:                  0.9

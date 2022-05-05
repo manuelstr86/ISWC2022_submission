@@ -1,0 +1,3 @@
+song:                 0.9
+sitting:              0.9
+around:               0.9

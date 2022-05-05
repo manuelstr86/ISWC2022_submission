@@ -1,0 +1,9 @@
+straziante: 0.969
+lutto: 0.969
+tragico: 0.961
+olocausto: 0.953
+suicida: 0.941
+miseria: 0.938
+massacro: 0.931
+eutanasia: 0.927
+depressione: 0.925

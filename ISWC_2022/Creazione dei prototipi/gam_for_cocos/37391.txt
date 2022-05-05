@@ -1,0 +1,1 @@
+illuminazione:        0.9

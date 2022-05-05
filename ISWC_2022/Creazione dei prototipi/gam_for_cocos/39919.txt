@@ -1,0 +1,4 @@
+les:                  0.9
+souffrance:           0.9
+du:                   0.9
+dubbing:              0.9

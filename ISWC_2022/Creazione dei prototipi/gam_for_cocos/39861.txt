@@ -1,0 +1,5 @@
+disegno:              0.9
+collaborazione:       0.9
+animare:              0.9
+alberto:              0.9
+amico:                0.9

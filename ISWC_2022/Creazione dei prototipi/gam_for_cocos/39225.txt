@@ -1,0 +1,12 @@
+versione:             0.9
+sottotitolo:          0.9
+inglese:              0.9
+dreigroschenoper:     0.6
+die:                  0.6
+the:                  0.6
+three:                0.6
+penny:                0.6
+opera:                0.6
+tedesco:              0.6
+presente:             0.6
+francese:             0.6

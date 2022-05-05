@@ -1,0 +1,4 @@
+hapax:                0.9
+legomena:             0.9
+travelling:           0.9
+matta:                0.9

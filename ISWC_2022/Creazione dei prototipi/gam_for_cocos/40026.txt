@@ -1,0 +1,2 @@
+perfect:              0.9
+day:                  0.9

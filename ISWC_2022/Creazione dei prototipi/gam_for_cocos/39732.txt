@@ -1,0 +1,8 @@
+tanz:                 0.9
+eine:                 0.9
+für:                  0.9
+frau:                 0.9
+amazone:              0.9
+contenere:            0.9
+bis:                  0.9
+venus:                0.9

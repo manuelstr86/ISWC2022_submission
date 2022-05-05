@@ -1,0 +1,4 @@
+trapianto:            0.9
+consunzione:          0.9
+morte:                0.9
+dedalus:              0.9

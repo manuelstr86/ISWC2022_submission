@@ -1,0 +1,5 @@
+irony:                0.9
+the:                  0.9
+abyss:                0.9
+of:                   0.9
+speech:               0.9

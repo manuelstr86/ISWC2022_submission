@@ -1,0 +1,2 @@
+rabbit:               0.9
+moon:                 0.9

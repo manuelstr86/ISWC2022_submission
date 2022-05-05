@@ -1,0 +1,2 @@
+anemic:               0.9
+cinema:               0.9

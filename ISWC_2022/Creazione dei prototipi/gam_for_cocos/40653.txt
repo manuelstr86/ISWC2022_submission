@@ -1,0 +1,2 @@
+occhio:               0.9
+aperto:               0.9

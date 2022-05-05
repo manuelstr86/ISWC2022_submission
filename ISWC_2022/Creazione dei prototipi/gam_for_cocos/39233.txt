@@ -1,0 +1,7 @@
+de:                   0.9
+via:                  0.9
+des:                  0.9
+enfants:              0.9
+au:                   0.9
+xxième:               0.9
+siècle:               0.9

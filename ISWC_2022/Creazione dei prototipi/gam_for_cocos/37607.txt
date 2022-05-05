@@ -1,0 +1,4 @@
+am:                   0.9
+with:                 0.9
+you:                  0.9
+rockland:             0.9

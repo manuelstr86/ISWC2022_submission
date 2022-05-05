@@ -1,0 +1,3 @@
+meditation:           0.9
+on:                   0.9
+violence:             0.9

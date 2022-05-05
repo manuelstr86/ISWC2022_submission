@@ -1,0 +1,4 @@
+heaven:               0.9
+and:                  0.9
+earth:                0.9
+magic:                0.9

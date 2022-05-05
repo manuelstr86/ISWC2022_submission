@@ -1,0 +1,6 @@
+mostro:               0.9
+occhio:               0.9
+sguardo:              0.9
+velo:                 0.9
+celare:               0.9
+mano:                 0.9

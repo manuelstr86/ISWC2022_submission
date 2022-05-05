@@ -1,0 +1,2 @@
+walther:              0.9
+craft:                0.9

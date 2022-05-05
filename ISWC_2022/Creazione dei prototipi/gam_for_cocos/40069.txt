@@ -1,0 +1,3 @@
+byen:                 0.9
+city:                 0.9
+rammer:               0.9

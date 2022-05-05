@@ -1,0 +1,4 @@
+window:               0.9
+water:                0.9
+baby:                 0.9
+moving:               0.9

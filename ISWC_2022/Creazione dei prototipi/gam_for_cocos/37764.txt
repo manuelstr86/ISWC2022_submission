@@ -1,0 +1,4 @@
+semiotics:            0.9
+of:                   0.9
+the:                  0.9
+kitchen:              0.9

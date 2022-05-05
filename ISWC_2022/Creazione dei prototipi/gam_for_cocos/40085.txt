@@ -1,0 +1,4 @@
+couples:              0.9
+the:                  0.9
+road:                 0.9
+fragment:             0.9

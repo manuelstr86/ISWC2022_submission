@@ -1,0 +1,2 @@
+hungarian:            0.9
+passport:             0.9

@@ -1,0 +1,7 @@
+water:                0.9
+falling:              0.9
+from:                 0.9
+world:                0.9
+one:                  0.9
+to:                   0.9
+another:              0.9

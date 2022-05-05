@@ -1,0 +1,9 @@
+madonnas:             0.9
+of:                   0.9
+the:                  0.9
+flowers:              0.9
+von:                  0.9
+contenere:            0.9
+amazone:              0.9
+bis:                  0.9
+venus:                0.9

@@ -1,0 +1,6 @@
+nam:                  0.9
+june:                 0.9
+paik:                 0.9
+edited:               0.9
+for:                  0.9
+television:           0.9

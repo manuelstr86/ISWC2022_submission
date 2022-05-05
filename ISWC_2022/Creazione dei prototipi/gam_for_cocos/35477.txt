@@ -1,0 +1,2 @@
+concetto:             0.9
+spaziale:             0.9

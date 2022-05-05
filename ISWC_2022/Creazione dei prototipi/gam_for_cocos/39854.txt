@@ -1,0 +1,2 @@
+digital:              0.9
+wind:                 0.9

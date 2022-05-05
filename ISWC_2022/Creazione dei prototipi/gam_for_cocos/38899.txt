@@ -1,0 +1,4 @@
+transformer:          0.9
+girato:               0.9
+museo:                0.9
+guggenheim:           0.9

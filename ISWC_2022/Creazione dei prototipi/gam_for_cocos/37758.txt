@@ -1,0 +1,4 @@
+ogni:                 0.9
+corpo:                0.9
+spazio:               0.9
+occupare:             0.9

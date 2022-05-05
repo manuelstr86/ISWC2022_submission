@@ -1,0 +1,3 @@
+without:              0.9
+you:                  0.9
+nothing:              0.9

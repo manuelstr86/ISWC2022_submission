@@ -1,0 +1,2 @@
+perfect:              0.9
+pair:                 0.9

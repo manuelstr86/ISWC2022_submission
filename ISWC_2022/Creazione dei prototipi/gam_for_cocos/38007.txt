@@ -1,0 +1,5 @@
+cento:                0.9
+donna:                0.9
+vista:                0.9
+interno:              0.9
+automobile:           0.9

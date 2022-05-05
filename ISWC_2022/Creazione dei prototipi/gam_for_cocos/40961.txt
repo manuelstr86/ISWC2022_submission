@@ -1,0 +1,6 @@
+the:                  0.9
+canals:               0.9
+semi-circular:        0.9
+red:                  0.9
+contenere:            0.9
+tape:                 0.9

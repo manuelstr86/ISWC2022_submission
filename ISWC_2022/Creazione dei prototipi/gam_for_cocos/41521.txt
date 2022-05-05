@@ -1,0 +1,5 @@
+the:                  0.9
+houses:               0.9
+that:                 0.9
+ara:                  0.9
+left:                 0.9

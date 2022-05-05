@@ -1,0 +1,4 @@
+brick:                0.9
+sellers:              0.9
+of:                   0.9
+kabul:                0.9

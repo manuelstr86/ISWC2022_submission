@@ -1,0 +1,7 @@
+the:                  0.9
+well:                 0.9
+shaven:               0.9
+cactus:               0.9
+identifications:      0.9
+gerry:                0.9
+schum:                0.9

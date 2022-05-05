@@ -1,0 +1,4 @@
+song:                 0.9
+portrait:             0.9
+of:                   0.9
+lady:                 0.9

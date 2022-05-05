@@ -1,0 +1,3 @@
+unity:                0.9
+trought:              0.9
+strenght:             0.9

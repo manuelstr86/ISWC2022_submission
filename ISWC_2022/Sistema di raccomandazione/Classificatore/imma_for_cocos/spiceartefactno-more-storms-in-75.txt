@@ -1,0 +1,6 @@
+daniel:               0.9
+budnik:               0.9
+shot:                 0.9
+this:                 0.9
+image:                0.9
+mora:                 0.9

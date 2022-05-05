@@ -1,0 +1,2 @@
+ibrido:               0.9
+azione:               0.9

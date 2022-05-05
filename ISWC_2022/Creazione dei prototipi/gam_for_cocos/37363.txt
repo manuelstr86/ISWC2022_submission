@@ -1,0 +1,4 @@
+presentazione:        0.9
+imponderabilia:       0.9
+renato:               0.9
+barilli:              0.9

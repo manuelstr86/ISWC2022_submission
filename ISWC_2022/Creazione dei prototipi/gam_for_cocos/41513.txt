@@ -1,0 +1,2 @@
+punching:             0.9
+ball:                 0.9

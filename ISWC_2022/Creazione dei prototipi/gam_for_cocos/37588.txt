@@ -1,0 +1,8 @@
+the:                  0.9
+natura:               0.9
+of:                   0.9
+our:                  0.9
+looking:              0.9
+identifications:      0.9
+gerry:                0.9
+schum:                0.9

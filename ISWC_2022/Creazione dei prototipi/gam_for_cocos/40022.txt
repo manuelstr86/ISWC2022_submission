@@ -1,0 +1,2 @@
+governo:              0.9
+ladro:                0.9

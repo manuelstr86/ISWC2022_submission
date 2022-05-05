@@ -1,0 +1,8 @@
+commercial:           0.9
+from:                 0.9
+one-minute:           0.9
+adventures:           0.9
+the:                  0.9
+world:                0.9
+of:                   0.9
+tv:                   0.9

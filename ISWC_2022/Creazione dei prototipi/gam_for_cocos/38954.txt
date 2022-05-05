@@ -1,0 +1,2 @@
+martello:             0.9
+pneumatico:           0.9

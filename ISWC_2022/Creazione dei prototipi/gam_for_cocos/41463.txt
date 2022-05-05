@@ -1,0 +1,9 @@
+cold:                 0.9
+passionate:           0.9
+violent:              0.9
+stormy:               0.9
+rough:                0.9
+inconsistent:         0.9
+warm:                 0.9
+groovy:               0.9
+unforgettable:        0.9

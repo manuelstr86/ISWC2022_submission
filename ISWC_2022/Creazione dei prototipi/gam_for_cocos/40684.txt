@@ -1,0 +1,2 @@
+gota:                 0.9
+fiamma:               0.9

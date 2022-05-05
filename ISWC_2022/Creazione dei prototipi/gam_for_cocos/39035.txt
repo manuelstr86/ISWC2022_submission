@@ -1,0 +1,4 @@
+damnation:            0.9
+of:                   0.9
+faust:                0.9
+evocation:            0.9

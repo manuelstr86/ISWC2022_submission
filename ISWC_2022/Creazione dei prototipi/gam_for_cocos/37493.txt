@@ -1,0 +1,7 @@
+filz:                 0.9
+tv:                   0.9
+primo:                0.9
+parte:                0.9
+identifications:      0.9
+gerry:                0.9
+schum:                0.9

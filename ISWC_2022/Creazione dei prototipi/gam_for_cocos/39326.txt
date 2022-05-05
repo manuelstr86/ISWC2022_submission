@@ -1,0 +1,2 @@
+territorio:           0.9
+comanche:             0.9

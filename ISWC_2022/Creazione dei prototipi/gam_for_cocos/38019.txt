@@ -1,0 +1,3 @@
+es:                   0.9
+città:                0.9
+vesuvio:              0.9

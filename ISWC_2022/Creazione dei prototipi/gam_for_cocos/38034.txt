@@ -1,0 +1,5 @@
+and:                  0.9
+empire:               0.9
+spider:               0.9
+double:               0.6
+projection:           0.6

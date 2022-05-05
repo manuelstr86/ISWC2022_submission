@@ -1,0 +1,4 @@
+rufen:                0.9
+bis:                  0.9
+zur:                  0.9
+erschophung:          0.9

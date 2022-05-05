@@ -1,0 +1,4 @@
+leaving:              0.9
+the:                  0.9
+20th:                 0.9
+century:              0.9

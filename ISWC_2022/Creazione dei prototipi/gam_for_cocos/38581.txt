@@ -1,0 +1,9 @@
+scenes:               0.9
+from:                 0.9
+allen:                0.9
+last:                 0.9
+days:                 0.9
+on:                   0.9
+earth:                0.9
+spirit:               0.9
+as:                   0.9

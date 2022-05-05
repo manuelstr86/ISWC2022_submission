@@ -1,0 +1,10 @@
+the:                  0.9
+of:                   0.9
+mora:                 0.6
+deals:                0.6
+with:                 0.6
+subject:              0.6
+internment:           0.6
+context:              0.6
+northern:             0.6
+irish:                0.6

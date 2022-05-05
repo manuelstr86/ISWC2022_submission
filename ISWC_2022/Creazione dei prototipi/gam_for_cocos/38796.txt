@@ -1,0 +1,5 @@
+hapax:                0.9
+legomena:             0.9
+special:              0.9
+vii:                  0.9
+effects:              0.9

@@ -1,0 +1,5 @@
+buried:               0.9
+light:                0.9
+eastern:              0.9
+europe:               0.9
+passing:              0.9

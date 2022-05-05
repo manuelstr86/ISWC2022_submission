@@ -1,0 +1,3 @@
+rovo:                 0.9
+lapide:               0.9
+luce:                 0.9

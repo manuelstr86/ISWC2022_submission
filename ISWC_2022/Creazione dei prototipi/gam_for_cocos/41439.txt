@@ -1,0 +1,2 @@
+friday:               0.9
+afternoon:            0.9

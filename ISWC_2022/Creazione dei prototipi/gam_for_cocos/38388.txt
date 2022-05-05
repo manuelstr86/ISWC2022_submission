@@ -1,0 +1,4 @@
+good:                 0.9
+for:                  0.9
+time:                 0.9
+change:               0.9

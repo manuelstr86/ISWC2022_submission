@@ -1,0 +1,4 @@
+hapax:                0.9
+legomena:             0.9
+poetic:               0.9
+justice:              0.9

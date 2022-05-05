@@ -1,0 +1,5 @@
+studio:               0.9
+veronica:             0.9
+volto:                0.9
+asciugare:            0.9
+gesù:                 0.9

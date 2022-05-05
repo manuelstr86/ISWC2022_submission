@@ -1,0 +1,2 @@
+animale:              0.9
+terribile:            0.9

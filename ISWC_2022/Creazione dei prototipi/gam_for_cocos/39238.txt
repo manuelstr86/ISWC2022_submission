@@ -1,0 +1,2 @@
+wallace:              0.9
+theresa:              0.9

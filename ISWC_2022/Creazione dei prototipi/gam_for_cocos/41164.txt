@@ -1,0 +1,2 @@
+haucht:               0.9
+liebesgedicht:        0.9

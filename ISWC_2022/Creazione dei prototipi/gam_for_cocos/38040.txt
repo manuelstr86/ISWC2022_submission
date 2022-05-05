@@ -1,0 +1,2 @@
+osservazione:         0.9
+permanente:           0.9

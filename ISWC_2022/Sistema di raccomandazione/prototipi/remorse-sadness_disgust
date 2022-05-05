@@ -1,0 +1,37 @@
+#Title composizione
+Title : sadness-disgust
+
+#Concetto Principale
+Head Concept Name : sadness
+
+#Concetto Modificatore
+Modifier Concept Name : disgust
+
+head, -happiness
+head, -jubilant
+head, -joy
+
+
+modifier, -honor
+
+
+T(modifier), cannibalism, 0.95
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.91
+T(modifier), incest, 0.91
+T(modifier), gonorrhea, 0.91
+T(modifier), rape, 0.91
+T(modifier), rot, 0.89
+T(modifier), corpse, 0.88
+T(modifier), massacre, 0.88
+
+T(head), heartbreaking, 0.97
+T(head), mourning, 0.97
+T(head), tragic, 0.96
+T(head), holocaust, 0.95
+T(head), suicidal, 0.94
+T(head), misery, 0.94
+T(head), massacre, 0.93
+T(head), euthanasia, 0.93
+T(head), depression, 0.93
+

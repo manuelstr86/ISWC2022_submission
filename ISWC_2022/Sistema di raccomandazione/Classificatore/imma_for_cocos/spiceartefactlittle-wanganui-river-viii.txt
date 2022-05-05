@@ -1,0 +1,13 @@
+is:                   0.9
+little:               0.6
+wanganui:             0.6
+river:                0.6
+work:                 0.6
+by:                   0.6
+barrie:               0.6
+cooke:                0.6
+it:                   0.6
+not:                  0.6
+currently:            0.6
+on:                   0.6
+display:              0.6

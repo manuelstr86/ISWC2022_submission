@@ -1,0 +1,3 @@
+immagine:             0.9
+tempo:                0.9
+3v:                   0.9

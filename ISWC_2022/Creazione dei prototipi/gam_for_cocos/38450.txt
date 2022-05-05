@@ -1,0 +1,4 @@
+satellite:            0.9
+rosso:                0.9
+agostino:             0.9
+s:                    0.9

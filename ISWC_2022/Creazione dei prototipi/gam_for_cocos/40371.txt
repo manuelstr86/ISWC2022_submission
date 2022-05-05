@@ -1,0 +1,10 @@
+titolo:               0.9
+opera:                0.9
+video:                0.9
+facente:              0.9
+parte:                0.9
+videoinstallazione:   0.9
+due:                  0.9
+canale:               0.9
+endless:              0.9
+loop:                 0.9

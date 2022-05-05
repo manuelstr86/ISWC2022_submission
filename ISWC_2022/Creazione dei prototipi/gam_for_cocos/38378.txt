@@ -1,0 +1,3 @@
+cadillac:             0.9
+ranch:                0.9
+show:                 0.9

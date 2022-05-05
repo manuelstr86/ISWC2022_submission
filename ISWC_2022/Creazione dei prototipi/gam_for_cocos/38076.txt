@@ -1,0 +1,4 @@
+study:                0.9
+choreography:         0.9
+for:                  0.9
+camera:               0.9

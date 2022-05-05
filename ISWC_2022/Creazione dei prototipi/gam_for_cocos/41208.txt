@@ -1,0 +1,4 @@
+malaktion:            0.9
+schömer-haus:         0.9
+realizzare:           0.9
+klosterneuburg:       0.9

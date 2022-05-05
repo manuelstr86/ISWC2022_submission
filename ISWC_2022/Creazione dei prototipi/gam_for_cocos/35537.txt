@@ -1,0 +1,2 @@
+merlimont:            0.9
+plage:                0.9

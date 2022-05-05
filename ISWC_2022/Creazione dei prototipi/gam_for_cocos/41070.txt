@@ -1,0 +1,4 @@
+god:                  0.9
+save:                 0.9
+the:                  0.9
+queen:                0.9

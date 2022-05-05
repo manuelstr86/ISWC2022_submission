@@ -1,0 +1,9 @@
+anticipazione: 0.859
+eccitato: 0.859
+impazienza: 0.812
+attesa: 0.789
+eccitante: 0.781
+speranza: 0.773
+ricerca: 0.766
+inizio: 0.750
+avventura: 0.750

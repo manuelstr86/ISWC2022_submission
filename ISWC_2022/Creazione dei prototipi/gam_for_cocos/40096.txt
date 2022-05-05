@@ -1,0 +1,2 @@
+gente:                0.9
+milano:               0.9

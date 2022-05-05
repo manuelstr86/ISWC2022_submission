@@ -1,0 +1,4 @@
+penone:               0.9
+giuseppe:             0.9
+legge:                0.9
+scrivere:             0.9

@@ -1,0 +1,4 @@
+the:                  0.9
+harrowing:            0.9
+tryst:                0.9
+haunt:                0.9

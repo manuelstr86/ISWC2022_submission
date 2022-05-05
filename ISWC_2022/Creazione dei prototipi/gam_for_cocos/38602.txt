@@ -1,0 +1,6 @@
+delfina:              0.9
+nove:                 0.9
+atto:                 0.9
+project:              0.9
+unnha:                0.9
+donna:                0.9

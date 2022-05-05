@@ -1,0 +1,7 @@
+lupo:                 0.9
+essere:               0.9
+performance:          0.9
+villa:                0.9
+capriglio:            0.9
+torino:               0.9
+marzo:                0.9

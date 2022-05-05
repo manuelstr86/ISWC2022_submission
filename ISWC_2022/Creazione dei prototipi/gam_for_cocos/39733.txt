@@ -1,0 +1,11 @@
+amazone:              0.9
+glauben:              0.6
+nicht:                0.6
+sie:                  0.6
+das:                  0.6
+ich:                  0.6
+eine:                 0.6
+von:                  0.6
+contenere:            0.6
+bis:                  0.6
+venus:                0.6

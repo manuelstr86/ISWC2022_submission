@@ -1,0 +1,5 @@
+autoportrait:         0.9
+ou:                   0.9
+manque:               0.9
+nous:                 0.9
+tous:                 0.9

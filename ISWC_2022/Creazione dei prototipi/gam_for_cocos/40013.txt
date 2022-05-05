@@ -1,0 +1,11 @@
+life:                 0.9
+exile:                0.9
+body:                 0.9
+speech:               0.9
+and:                  0.9
+mind:                 0.9
+conversations:        0.9
+with:                 0.9
+tibetan:              0.9
+philosophers:         0.9
+part:                 0.9

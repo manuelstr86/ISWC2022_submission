@@ -1,0 +1,4 @@
+immagine:             0.9
+pericolo:             0.9
+rouge:                0.9
+moulin:               0.9

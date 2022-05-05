@@ -1,0 +1,2 @@
+chien:                0.9
+andalou:              0.9

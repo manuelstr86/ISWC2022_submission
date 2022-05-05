@@ -1,0 +1,5 @@
+sleep:                0.9
+the:                  0.9
+orchard:              0.9
+tecnica:              0.6
+mista:                0.6

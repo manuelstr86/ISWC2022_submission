@@ -1,0 +1,39 @@
+#Title composizione
+Title : harm-sadness
+
+#Concetto Principale
+Head Concept Name : harm
+
+#Concetto Modificatore
+Modifier Concept Name : sadness
+
+
+
+modifier, -happiness
+modifier, -jubilant
+modifier, -joy
+
+
+T(modifier), heartbreaking, 0.97
+T(modifier), mourning, 0.97
+T(modifier), tragic, 0.96
+T(modifier), holocaust, 0.95
+T(modifier), suicidal, 0.94
+T(modifier), misery, 0.94
+T(modifier), massacre, 0.93
+T(modifier), euthanasia, 0.93
+T(modifier), depression, 0.93
+
+T(head), mistakes, 0.96
+T(head), bid, 0.95
+T(head), distrust, 0.92
+T(head), injury, 0.9
+T(head), persistent, 0.9
+T(head), constitution, 0.89
+T(head), upheld, 0.88
+T(head), attacker, 0.88
+T(head), cruel, 0.86
+T(head), unfair, 0.86
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', 5.890934691189875e-10

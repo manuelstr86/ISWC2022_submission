@@ -1,0 +1,17 @@
+the:                  0.9
+of:                   0.9
+kilkenny:             0.6
+limestone:            0.6
+circle:               0.6
+was:                  0.6
+commissioned:         0.6
+for:                  0.6
+inheritance:          0.6
+and:                  0.6
+transformation:       0.6
+opening:              0.6
+exhibition:           0.6
+irish:                0.6
+museum:               0.6
+modern:               0.6
+art:                  0.6

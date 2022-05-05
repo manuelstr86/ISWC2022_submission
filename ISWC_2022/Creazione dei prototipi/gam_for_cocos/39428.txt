@@ -1,0 +1,2 @@
+vedetta:              0.9
+notturna:             0.9

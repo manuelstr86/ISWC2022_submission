@@ -1,0 +1,2 @@
+mind:                 0.9
+diamond:              0.9

@@ -1,0 +1,3 @@
+just:                 0.9
+hold:                 0.9
+still:                0.9

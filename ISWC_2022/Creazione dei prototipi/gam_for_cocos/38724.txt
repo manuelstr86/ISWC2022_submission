@@ -1,0 +1,4 @@
+accidents:            0.9
+the:                  0.9
+home:                 0.9
+gasfires:             0.9

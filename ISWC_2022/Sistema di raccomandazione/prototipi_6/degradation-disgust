@@ -1,0 +1,37 @@
+#Title composizione
+Title : degradation-disgust
+
+#Concetto Principale
+Head Concept Name : degradation
+
+#Concetto Modificatore
+Modifier Concept Name : disgust
+
+
+
+modifier, -honor
+
+
+T(modifier), cannibalism, 0.95
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.91
+T(modifier), incest, 0.91
+T(modifier), gonorrhea, 0.91
+T(modifier), rape, 0.91
+T(modifier), rot, 0.89
+T(modifier), corpse, 0.88
+T(modifier), massacre, 0.88
+
+T(head), cruel, 0.91
+T(head), weapon, 0.91
+T(head), anybody, 0.91
+T(head), bomber, 0.9
+T(head), curtail, 0.89
+T(head), reject, 0.89
+T(head), attackers, 0.88
+T(head), temperatures, 0.87
+T(head), overcome, 0.87
+T(head), lone, 0.87
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', 2.281651273265843e-09

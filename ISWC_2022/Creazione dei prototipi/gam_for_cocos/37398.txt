@@ -1,0 +1,2 @@
+altro:                0.9
+sentire:              0.9

@@ -1,0 +1,11 @@
+de:                   0.9
+sur:                  0.6
+passage:              0.6
+quelques:             0.6
+personnes:            0.6
+travers:              0.6
+une:                  0.6
+assez:                0.6
+courte:               0.6
+unité:                0.6
+temps:                0.6

@@ -1,0 +1,3 @@
+thigh:                0.9
+line:                 0.9
+lyre:                 0.9

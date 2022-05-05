@@ -1,0 +1,14 @@
+is:                   0.9
+laboratory:           0.6
+still:                0.6
+life:                 0.6
+stare:                0.6
+work:                 0.6
+by:                   0.6
+tony:                 0.6
+cragg:                0.6
+it:                   0.6
+not:                  0.6
+currently:            0.6
+on:                   0.6
+display:              0.6

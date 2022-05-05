@@ -1,0 +1,5 @@
+noble:                0.9
+savages:              0.9
+wake:                 0.9
+of:                   0.9
+reason:               0.9

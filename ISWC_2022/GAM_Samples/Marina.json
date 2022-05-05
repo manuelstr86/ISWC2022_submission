@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/Marina",
+      "@type":"schema:CreativeWork",
+      "dc:description":"Negli ultimi anni della sua vita, Licini semplifica il bagaglio di forme che contraddistingue la sua opera e riconduce la tavolozza a tinte prossime a quelle fondamentali, imbastendo le composizizioni su contrasti di complementari. Il presente dipinto si inserisce in questo preciso contesto, denotando un'estrema esemplificazione di linee e colori.",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/marina",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Marina, Osvaldo Licini, 1894 - 1954",
+      "title": "Marina, Osvaldo Licini, 1894 - 1954",
+      "inventary": "S/2",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Osvaldo Licini, Monte Vidon Corrado (AP), 1894 - 1954",
+      "year": "1969",
+      "Materiale e Tecnica": "olio su carta",
+      "dimention": "mm 300 x 200",
+      "definition": "",
+      "Acquisizione": "Dono di Paolo Licini, Livorno, 1969",
+      "Note Blind": "Inventario: p/1833"
+   }
+]
+

@@ -1,0 +1,2 @@
+fragmente:            0.9
+burgenland:           0.9

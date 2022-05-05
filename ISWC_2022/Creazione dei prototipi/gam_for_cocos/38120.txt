@@ -1,0 +1,2 @@
+volto:                0.9
+telato:               0.9

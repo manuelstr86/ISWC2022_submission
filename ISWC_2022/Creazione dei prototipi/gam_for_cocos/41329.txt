@@ -1,0 +1,2 @@
+femme:                0.9
+ferale:               0.9

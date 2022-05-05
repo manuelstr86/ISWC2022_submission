@@ -1,0 +1,3 @@
+mann:                 0.9
+frau:                 0.9
+animal:               0.9

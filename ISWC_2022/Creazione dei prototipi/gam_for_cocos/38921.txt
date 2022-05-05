@@ -1,0 +1,3 @@
+the:                  0.9
+lunghi-gaeng:         0.9
+project:              0.9

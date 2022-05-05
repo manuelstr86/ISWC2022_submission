@@ -1,0 +1,5 @@
+figura:               0.9
+gunpowder:            0.9
+en:                   0.9
+los:                  0.9
+cracks:               0.9

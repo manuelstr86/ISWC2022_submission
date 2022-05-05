@@ -1,0 +1,9 @@
+playing:              0.9
+soul:                 0.9
+music:                0.9
+to:                   0.9
+my:                   0.9
+freckles:             0.9
+red:                  0.9
+contenere:            0.9
+tape:                 0.9

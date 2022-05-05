@@ -1,0 +1,2 @@
+arpiani:              0.9
+pagliarini:           0.9

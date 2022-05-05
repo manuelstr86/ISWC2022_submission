@@ -1,0 +1,6 @@
+movimento:            0.9
+paolo:                0.9
+leonardo:             0.9
+spazio:               0.9
+libero:               0.9
+affisioni:            0.9

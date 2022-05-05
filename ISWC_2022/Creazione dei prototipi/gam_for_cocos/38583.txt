@@ -1,0 +1,9 @@
+zefiro:               0.9
+scenes:               0.9
+tornare:              0.9
+from:                 0.9
+the:                  0.9
+life:                 0.9
+of:                   0.9
+george:               0.9
+maciunas:             0.9

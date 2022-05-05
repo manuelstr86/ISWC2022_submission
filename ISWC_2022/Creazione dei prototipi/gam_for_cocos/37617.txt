@@ -1,0 +1,3 @@
+knowledge:            0.9
+is:                   0.9
+good:                 0.9

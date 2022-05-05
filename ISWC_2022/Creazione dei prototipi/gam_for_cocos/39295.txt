@@ -1,0 +1,7 @@
+run:                  0.9
+hubbard:              0.9
+loop:                 0.9
+futuro:               0.9
+contenere:            0.9
+obsoleto:             0.9
+vol:                  0.9

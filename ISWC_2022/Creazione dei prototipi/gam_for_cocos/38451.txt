@@ -1,0 +1,5 @@
+you:                  0.9
+should:               0.9
+be:                   0.9
+kissed:               0.9
+often:                0.9

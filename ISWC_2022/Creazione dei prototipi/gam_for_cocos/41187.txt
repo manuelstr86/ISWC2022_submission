@@ -1,0 +1,8 @@
+my:                   0.9000000000000001
+turn:                 0.6
+over:                 0.6
+the:                  0.6
+pictures:             0.6
+of:                   0.6
+voice:                0.6
+head:                 0.6

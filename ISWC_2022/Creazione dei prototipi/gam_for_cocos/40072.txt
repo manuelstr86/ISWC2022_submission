@@ -1,0 +1,4 @@
+outside:              0.9
+the:                  0.9
+living:               0.9
+room:                 0.9

@@ -1,0 +1,16 @@
+this:                 0.9
+specially:            0.9
+commissioned:         0.9
+cloth:                0.9
+handkerchief:         0.9
+by:                   0.9
+alice:                0.9
+maher:                0.9
+was:                  0.9
+produced:             0.9
+on:                   0.9
+the:                  0.9
+occasion:             0.9
+of:                   0.9
+her:                  0.9
+exhibition:           0.9

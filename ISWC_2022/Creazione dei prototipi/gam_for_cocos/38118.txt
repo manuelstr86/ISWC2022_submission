@@ -1,0 +1,4 @@
+immagine:             0.9
+ruota:                0.9
+travolgere:           0.9
+duchamp:              0.9

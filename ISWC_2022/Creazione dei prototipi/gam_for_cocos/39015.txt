@@ -1,0 +1,2 @@
+mind:                 0.9
+landscape:            0.9

@@ -1,0 +1,12 @@
+fluxfilm:             0.9
+traversée:            0.6
+du:                   0.6
+port:                 0.6
+de:                   0.6
+nice:                 0.6
+nage:                 0.6
+contenere:            0.6
+anthology:            0.6
+george:               0.6
+maciunas:             0.6
+fluxus:               0.6

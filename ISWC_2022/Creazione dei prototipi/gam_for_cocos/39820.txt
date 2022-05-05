@@ -1,0 +1,5 @@
+song:                 0.9
+molds:                0.9
+paints:               0.9
+and:                  0.9
+crystals:             0.9

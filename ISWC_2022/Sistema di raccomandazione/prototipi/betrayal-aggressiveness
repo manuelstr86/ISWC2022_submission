@@ -1,0 +1,34 @@
+#Title composizione
+Title : betrayal-aggressiveness
+
+#Concetto Principale
+Head Concept Name : betrayal
+
+#Concetto Modificatore
+Modifier Concept Name : aggressiveness
+
+
+
+modifier, 
+modifier, -surprise
+
+T(modifier), outraged, 0.96
+T(modifier), brutality, 0.96
+T(modifier), hatred, 0.95
+T(modifier), violently, 0.94
+T(modifier), infuriated, 0.94
+T(modifier), excited, 0.86
+
+T(head), row, 0.96
+T(head), witnesses, 0.92
+T(head), trapped, 0.92
+T(head), shoot, 0.91
+T(head), waste, 0.9
+T(head), temporary, 0.89
+T(head), perpetrators, 0.88
+T(head), cruel, 0.88
+T(head), requested, 0.86
+T(head), penalty, 0.86
+
+
+Result : '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', 2.458954314912727e-06

@@ -1,0 +1,11 @@
+tango:                0.9
+danza:                0.6
+feeling:              0.6
+trasporto:            0.6
+seduzione:            0.6
+ritmo:                0.6
+aria:                 0.9
+lampo:                0.9
+cerniera:             0.9
+condivisione:         0.9
+sfida:                0.9

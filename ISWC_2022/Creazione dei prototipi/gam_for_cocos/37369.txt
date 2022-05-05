@@ -1,0 +1,2 @@
+sensible:             0.9
+shoes:                0.9

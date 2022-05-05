@@ -1,0 +1,2 @@
+ri-apparizione:       0.9
+re-appearance:        0.9

@@ -1,0 +1,9 @@
+those:                0.9
+who:                  0.9
+tried:                0.9
+to:                   0.9
+put:                  0.9
+rainbow:              0.9
+back:                 0.9
+the:                  0.9
+sky:                  0.9

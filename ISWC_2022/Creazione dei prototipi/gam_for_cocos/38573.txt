@@ -1,0 +1,5 @@
+carl:                 0.9
+dr:                   0.9
+jung:                 0.9
+lapis:                0.9
+philosophorum:        0.9

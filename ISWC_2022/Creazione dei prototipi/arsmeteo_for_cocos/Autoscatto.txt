@@ -1,0 +1,8 @@
+torino:               0.9
+toro:                 0.9
+gianduia:             0.9
+fotografia:           0.9
+superga:              0.9
+icona:                0.9
+autoscatto:           0.9
+movida:               0.9

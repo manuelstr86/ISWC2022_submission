@@ -1,0 +1,2 @@
+sogno:                0.9
+volpe:                0.9

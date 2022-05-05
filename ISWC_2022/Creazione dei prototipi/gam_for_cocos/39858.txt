@@ -1,0 +1,8 @@
+pop:                  0.9
+unclean:              0.9
+on:                   0.9
+stereo:               0.9
+futuro:               0.9
+contenere:            0.9
+obsoleto:             0.9
+vol:                  0.9

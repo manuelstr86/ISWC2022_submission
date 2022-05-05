@@ -1,0 +1,2 @@
+soliloquy:            0.9
+jack:                 0.9

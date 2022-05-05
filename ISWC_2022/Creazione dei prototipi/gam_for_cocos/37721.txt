@@ -1,0 +1,2 @@
+chairy:               0.9
+tale:                 0.9

@@ -1,0 +1,3 @@
+diogene:              0.9
+scodella:             0.9
+gettare:              0.9

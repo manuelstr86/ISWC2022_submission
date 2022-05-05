@@ -1,0 +1,10 @@
+anagrammatische:      0.9
+komposition:          0.9
+mit:                  0.9
+wurfelspiel:          0.9
+nach:                 0.9
+w.a.:                 0.9
+mozart:               0.9
+klavier:              0.9
+fur:                  0.9
+sopransaxophon:       0.9

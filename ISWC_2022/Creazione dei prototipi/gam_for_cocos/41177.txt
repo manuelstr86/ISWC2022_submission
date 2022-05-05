@@ -1,0 +1,4 @@
+zweiheit:             0.9
+die:                  0.9
+natur:                0.9
+der:                  0.9

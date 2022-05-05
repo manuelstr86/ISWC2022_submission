@@ -1,0 +1,7 @@
+scenes:               0.9
+from:                 0.9
+the:                  0.9
+life:                 0.9
+of:                   0.9
+andy:                 0.9
+warhol:               0.9

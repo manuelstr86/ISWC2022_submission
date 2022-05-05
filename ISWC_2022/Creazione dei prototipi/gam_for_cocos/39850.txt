@@ -1,0 +1,4 @@
+the:                  0.9
+fata:                 0.9
+of:                   0.9
+energy:               0.9

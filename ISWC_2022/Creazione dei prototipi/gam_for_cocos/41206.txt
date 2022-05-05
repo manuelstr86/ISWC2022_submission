@@ -1,0 +1,3 @@
+aktion:               0.9
+napoli:               0.9
+realizzare:           0.9

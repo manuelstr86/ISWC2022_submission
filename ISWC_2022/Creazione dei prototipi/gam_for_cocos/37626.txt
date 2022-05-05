@@ -1,0 +1,5 @@
+the:                  0.9
+hottest:              0.6
+day:                  0.6
+of:                   0.6
+year:                 0.6

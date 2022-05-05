@@ -1,0 +1,58 @@
+#Title composizione
+Title : betrayal-aggressiveness
+
+#Concetto Principale
+Head Concept Name : betrayal
+
+#Concetto Modificatore
+Modifier Concept Name : aggressiveness
+
+
+
+modifier, 
+modifier, -surprise
+
+T(modifier), row, 0.96
+T(modifier), witnesses, 0.92
+T(modifier), trapped, 0.92
+T(modifier), shoot, 0.91
+T(modifier), waste, 0.9
+T(modifier), temporary, 0.89
+T(modifier), perpetrators, 0.88
+T(modifier), cruel, 0.88
+T(modifier), requested, 0.86
+T(modifier), penalty, 0.86
+T(modifier), injury, 0.86
+T(modifier), deport, 0.86
+T(modifier), rape, 0.85
+T(modifier), attacker, 0.83
+T(modifier), prosecuted, 0.83
+T(modifier), beating, 0.83
+T(modifier), survive, 0.82
+T(modifier), torture, 0.82
+T(modifier), weak, 0.8
+T(modifier), bomber, 0.8
+T(modifier), destruction, 0.79
+
+T(head), row, 0.96
+T(head), witnesses, 0.92
+T(head), trapped, 0.92
+T(head), shoot, 0.91
+T(head), waste, 0.9
+T(head), temporary, 0.89
+T(head), perpetrators, 0.88
+T(head), cruel, 0.88
+T(head), requested, 0.86
+T(head), penalty, 0.86
+T(head), injury, 0.86
+T(head), deport, 0.86
+T(head), rape, 0.85
+T(head), attacker, 0.83
+T(head), prosecuted, 0.83
+T(head), beating, 0.83
+T(head), survive, 0.82
+T(head), torture, 0.82
+T(head), weak, 0.8
+T(head), bomber, 0.8
+T(head), destruction, 0.79
+

@@ -1,0 +1,4 @@
+figura:               0.9
+isla:                 0.9
+parece:               0.9
+que:                  0.9

@@ -1,0 +1,2 @@
+giulio:               0.9
+paolini:              0.9

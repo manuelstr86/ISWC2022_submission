@@ -1,0 +1,7 @@
+macbeth:              0.9
+the:                  0.9
+witches:              0.9
+scenes:               0.9
+by:                   0.9
+w:                    0.9
+shakespeare:          0.9

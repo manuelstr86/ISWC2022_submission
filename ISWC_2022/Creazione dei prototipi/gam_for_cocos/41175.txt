@@ -1,0 +1,5 @@
+süße:                 0.9
+die:                  0.9
+nummer:               0.9
+konsumerlebnis:       0.9
+ein:                  0.9

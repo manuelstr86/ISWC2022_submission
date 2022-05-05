@@ -1,0 +1,6 @@
+other:                0.9
+million:              0.9
+things:               0.9
+red:                  0.9
+contenere:            0.9
+tape:                 0.9

@@ -1,0 +1,9 @@
+tortura: 0.984
+terrorista: 0.972
+orribile: 0.969
+terrorismo: 0.969
+uccidere: 0.962
+omicida: 0.959
+annientare: 0.953
+terrore: 0.953
+catastrofe: 0.953

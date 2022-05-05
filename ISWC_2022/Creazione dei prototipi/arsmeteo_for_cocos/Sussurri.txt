@@ -1,0 +1,5 @@
+confidarsi_al_muro:   0.9
+mi_senti:             0.9
+cina:                 0.9
+comunicazione:        0.9
+sangue:               0.9

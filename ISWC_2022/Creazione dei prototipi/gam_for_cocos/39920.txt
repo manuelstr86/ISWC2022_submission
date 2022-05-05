@@ -1,0 +1,2 @@
+heure:                0.9
+autosexuelle:         0.9

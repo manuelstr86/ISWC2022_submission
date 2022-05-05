@@ -1,0 +1,3 @@
+comandamento:         0.9
+bravo:                0.9
+ragazza:              0.9

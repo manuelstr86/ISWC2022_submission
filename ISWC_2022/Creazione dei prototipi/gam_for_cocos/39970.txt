@@ -1,0 +1,6 @@
+estoria:              0.9
+das:                  0.9
+horas:                0.9
+histoire:             0.9
+des:                  0.9
+heures:               0.9

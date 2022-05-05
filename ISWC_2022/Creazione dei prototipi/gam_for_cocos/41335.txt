@@ -1,0 +1,5 @@
+atelier:              0.9
+du:                   0.9
+val|valle:            0.9
+de:                   0.9
+grâce:                0.9

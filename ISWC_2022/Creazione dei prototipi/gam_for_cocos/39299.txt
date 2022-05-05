@@ -1,0 +1,7 @@
+borghese:             0.9
+vizietto:             0.9
+arte:                 0.9
+futuro:               0.9
+contenere:            0.9
+obsoleto:             0.9
+vol:                  0.9

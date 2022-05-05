@@ -1,0 +1,3 @@
+donnez:               0.9
+mothra:               0.9
+esprit:               0.9

@@ -1,0 +1,8 @@
+overhead:             0.9
+is:                   0.9
+many:                 0.9
+ways:                 0.9
+simple:               0.9
+painting:             0.9
+consisting:           0.9
+of:                   0.9

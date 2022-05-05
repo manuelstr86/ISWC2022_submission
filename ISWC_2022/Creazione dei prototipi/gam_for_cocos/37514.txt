@@ -1,0 +1,5 @@
+tentativo:            0.9
+volo:                 0.9
+identifications:      0.9
+gerry:                0.9
+schum:                0.9

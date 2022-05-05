@@ -1,0 +1,2 @@
+power:                0.9
+house:                0.9

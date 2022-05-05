@@ -1,0 +1,9 @@
+oltraggiato: 0.964
+brutalità: 0.959
+odio: 0.953
+terrorizzare: 0.939
+violentemente: 0.938
+infuriato: 0.938
+inferocito: 0.927
+assassino: 0.922
+esecuzione: 0.917

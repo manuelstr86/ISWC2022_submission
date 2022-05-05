@@ -1,0 +1,2 @@
+landscape:            0.9
+lunare:               0.9

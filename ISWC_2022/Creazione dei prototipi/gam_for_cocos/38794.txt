@@ -1,0 +1,4 @@
+hapax:                0.9
+legomena:             0.9
+ordinary:             0.9
+matter:               0.9

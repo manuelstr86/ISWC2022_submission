@@ -1,0 +1,7 @@
+reasons:              0.9
+for:                  0.9
+knocking:             0.9
+to:                   0.9
+empty:                0.9
+an:                   0.9
+house:                0.9

@@ -1,0 +1,4 @@
+the:                  0.9
+last:                 0.9
+clean:                0.9
+shirt:                0.9

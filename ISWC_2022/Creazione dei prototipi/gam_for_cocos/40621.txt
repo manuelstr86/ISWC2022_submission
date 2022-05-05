@@ -1,0 +1,2 @@
+storia:               0.9
+raccontare:           0.9

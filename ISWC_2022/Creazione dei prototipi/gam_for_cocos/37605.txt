@@ -1,0 +1,10 @@
+of:                   0.9
+the:                  0.9
+images:               0.6
+world:                0.6
+and:                  0.6
+inscripton:           0.6
+war:                  0.6
+collezione:           0.6
+video:                0.6
+artista:              0.6

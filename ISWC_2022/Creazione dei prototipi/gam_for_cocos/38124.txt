@@ -1,0 +1,5 @@
+tale:                 0.9
+from:                 0.9
+forest:               0.9
+without:              0.9
+name:                 0.9

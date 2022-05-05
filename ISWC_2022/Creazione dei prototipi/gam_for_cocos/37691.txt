@@ -1,0 +1,2 @@
+fratello:             0.9
+castiglioni:          0.9

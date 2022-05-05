@@ -1,0 +1,2 @@
+superficie:           0.9
+arancione:            0.9

@@ -1,0 +1,6 @@
+volo:                 0.9
+fuga:                 0.9
+scuro:                0.9
+ala:                  0.9
+materia:              0.9
+segno:                0.9

@@ -1,0 +1,1 @@
+batteriologico:       0.9

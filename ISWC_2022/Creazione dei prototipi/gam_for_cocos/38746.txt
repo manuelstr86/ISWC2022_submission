@@ -1,0 +1,3 @@
+p:                    0.9
+agostino:             0.9
+gemello:              0.9

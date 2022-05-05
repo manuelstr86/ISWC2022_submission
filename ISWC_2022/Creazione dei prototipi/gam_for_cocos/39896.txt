@@ -1,0 +1,2 @@
+mezzo:                0.9
+sogno:                0.6

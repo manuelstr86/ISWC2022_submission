@@ -1,0 +1,5 @@
+and:                  0.9
+study:                0.6
+color|colore:         0.6
+black:                0.6
+white:                0.6

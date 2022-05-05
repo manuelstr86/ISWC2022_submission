@@ -1,0 +1,3 @@
+me:                   0.9
+and:                  0.9
+rubyfruit:            0.9

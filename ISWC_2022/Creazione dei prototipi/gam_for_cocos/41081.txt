@@ -1,0 +1,7 @@
+and:                  0.9
+sonia:                0.9
+paint:                0.9
+stare:                0.9
+portrait:             0.9
+of:                   0.9
+ronnie:               0.9

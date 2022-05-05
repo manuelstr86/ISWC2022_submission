@@ -1,0 +1,22 @@
+cruel: 0.9382
+survivors: 0.92795
+assassination: 0.9170000000000001
+raping: 0.8989666666666668
+estimates: 0.8807
+sniper: 0.8807
+subjected: 0.8625
+witnessed: 0.8625
+unarmed: 0.8519
+bomber: 0.8450249999999999
+racism: 0.83904
+suicide: 0.8276608695652174
+dry: 0.8268
+disorder: 0.8169
+mood: 0.8126
+hostility: 0.80816
+injury: 0.8037
+injured: 0.7975666666666666
+mistake: 0.7964
+murder: 0.795275
+bombers: 0.79025
+

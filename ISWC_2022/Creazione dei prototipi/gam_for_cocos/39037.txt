@@ -1,0 +1,3 @@
+the:                  0.9
+susan:                0.9
+window:               0.9

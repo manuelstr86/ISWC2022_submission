@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/MercatoVecchio_Firenze",
+      "@type":"schema:CreativeWork",
+      "dc:description":"Eseguito durante il soggiorno fiorentino del 1867, il dipinto presenta un soggetto poco consueto per Fontanesi. In quel periodo egli lavora nello studio di Banti e il riflesso dell'influenza macchiaiola pare riconoscibile nella resa del contrasto luminoso, che si traduce nell'alternanza di chiari e scuri che percorre il selciato e disegna la parti più aggettanti degli edifici. Dall'altra parte vedute urbane di questo tipo parrebbero collegarsi alla produzione eliografica cui l'artista s'era dedicato negli anni trascorsi a Londra.",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/mercato-vecchio-di-firenze",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Mercato Vecchio - Firenze. Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "title": "Mercato Vecchio - Firenze. Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "inventary": "Inventario: P/790",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "year": "1867",
+      "Materiale e Tecnica": "olio su tela",
+      "dimention": "cm 69,4x92",
+      "definition": "",
+      "Acquisizione": "Legato di Giovanni Camerana, Torino, 1905",
+      "Note Blind": "Inventario: P/790"
+   }
+]
+

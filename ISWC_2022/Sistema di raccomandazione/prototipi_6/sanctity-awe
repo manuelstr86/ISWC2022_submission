@@ -1,0 +1,33 @@
+#Title composizione
+Title : sanctity-awe
+
+#Concetto Principale
+Head Concept Name : sanctity
+
+#Concetto Modificatore
+Modifier Concept Name : awe
+
+
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), torture, 0.98
+T(modifier), terrorist, 0.97
+T(modifier), horrific, 0.97
+T(modifier), kill, 0.96
+T(modifier), terror, 0.95
+
+T(head), compassion, 0.95
+T(head), positive, 0.9
+T(head), wins, 0.9
+T(head), backing, 0.88
+T(head), lawyer, 0.88
+T(head), curb, 0.88
+T(head), wealth, 0.85
+T(head), peacefully, 0.82
+T(head), admit, 0.81
+T(head), appointed, 0.81
+
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', 1.1262327445490635e-05

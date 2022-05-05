@@ -1,0 +1,3 @@
+logorio:              0.9
+arte:                 0.9
+moderno:              0.9

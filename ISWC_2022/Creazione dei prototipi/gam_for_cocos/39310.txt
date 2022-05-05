@@ -1,0 +1,4 @@
+capolavoro:           0.9
+predisporre:          0.9
+cosmico:              0.9
+astronomico:          0.9

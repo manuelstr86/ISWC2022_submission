@@ -1,0 +1,3 @@
+becoming:             0.9
+angel:                0.9
+an:                   0.9

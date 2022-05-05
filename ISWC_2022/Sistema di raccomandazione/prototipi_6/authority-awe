@@ -1,0 +1,43 @@
+#Title composizione
+Title : authority-awe
+
+#Concetto Principale
+Head Concept Name : authority
+
+#Concetto Modificatore
+Modifier Concept Name : awe
+
+head, addresses, 0.999
+head, severe, 0.8558
+head, uncertainty, 0.8481
+head, applied, 0.8225
+head, bus, 0.8074
+head, budget, 0.802
+head, comes, 0.7906
+head, church, 0.7906
+head, protecting, 0.7803666666666667
+head, tensions, 0.7783
+
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), torture, 0.98
+T(modifier), terrorist, 0.97
+T(modifier), horrific, 0.97
+T(modifier), kill, 0.96
+T(modifier), terror, 0.95
+
+T(head), prevented, 1.0
+T(head), enjoy, 0.86
+T(head), compete, 0.85
+T(head), winner, 0.82
+T(head), suburban, 0.81
+T(head), loves, 0.8
+T(head), entitled, 0.79
+T(head), helps, 0.79
+T(head), exports, 0.78
+T(head), wins, 0.78
+
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', 0.0001358733694383462

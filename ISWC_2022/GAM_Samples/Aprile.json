@@ -1,0 +1,27 @@
+[
+   {
+      "@id":"spice:artefact/Aprile",
+      "@type":"schema:CreativeWork",
+      "dc:description":"onsiderato tra i capolavori della produzione fontanesiana, il dipinto fu realizzato tra il 1872 e il 1873 e presentato all'Esposizione Universale di Vienna del 1873. La resa all'infinito dello spazio vi appare come problema centrale, accanto all'effetto di luce determinato dalla nube che scherma i raggi del sole. Ne deriva una luminosità diffusa che stempera l'impressione dal vero in una visione rarefatta, permeata da una sottile vena lirica, slegata tanto dall'indirizzo accademico del \"bello\", quanto dall'affermazione del \"vero\". L'originaria morbidezza della materia pittorica è stata in parte offuscata da un drastico intervento conservativo compiuto nel corso degli anni Trenta per ovviare alla fragilità dell'opera conseguente alla presenza di diversi strati pittorici: la tela era stata infatti dipinta riutilizzando come supporto quella presentata all'Esposizione di Parma del 1870 (Mattino).",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/aprile",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Aprile - Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "title": "Aprile - Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "inventary": "Inventario: P/410",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Antonio Fontanesi Reggio Emilia, 1818 - Torino, 1882",
+      "year": "1872 - 1873",
+      "Materiale e Tecnica": "olio su tela",
+      "dimention": "cm 171x254,8",
+      "definition": "",
+      "Acquisizione": "Dono del Ministero della Pubblica Istruzione, 1873",
+      "Note Blind": "Inventario: P/410",
+      "caption":"Aprile"
+   }
+]
+

@@ -1,0 +1,4 @@
+spazio:               0.9
+intorno-fuori:        0.9
+oggetto:              0.9
+fatto:                0.9

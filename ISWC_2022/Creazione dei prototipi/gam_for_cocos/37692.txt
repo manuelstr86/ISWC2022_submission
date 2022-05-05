@@ -1,0 +1,3 @@
+lungo:                0.9
+metraggio:            0.9
+m.o.:                 0.9

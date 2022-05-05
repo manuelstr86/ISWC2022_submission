@@ -1,0 +1,7 @@
+aktion:               0.9
+lehraktion:           0.9
+galerie:              0.9
+realizzare:           0.9
+kunst:                0.9
+handel:               0.9
+graz:                 0.9

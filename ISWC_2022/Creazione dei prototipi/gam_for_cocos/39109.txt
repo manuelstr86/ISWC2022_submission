@@ -1,0 +1,3 @@
+progetto:             0.9
+esempio:              0.9
+crudele:              0.9

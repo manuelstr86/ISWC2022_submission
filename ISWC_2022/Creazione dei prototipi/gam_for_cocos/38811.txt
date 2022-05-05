@@ -1,0 +1,6 @@
+the:                  0.9
+arsenal:              0.9
+and:                  0.9
+danzing:              0.9
+other:                0.9
+views:                0.9

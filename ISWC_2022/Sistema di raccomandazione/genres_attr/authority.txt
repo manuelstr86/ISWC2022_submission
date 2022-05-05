@@ -1,0 +1,10 @@
+addresses: 0.999
+severe: 0.8558
+uncertainty: 0.8481
+applied: 0.8225
+bus: 0.8074
+budget: 0.802
+comes: 0.7906
+church: 0.7906
+protecting: 0.7803666666666667
+tensions: 0.7783

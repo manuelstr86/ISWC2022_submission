@@ -1,0 +1,9 @@
+2022-03-02 14:57:00,058 - __main__ - INFO - Start DEGARI pipeline
+2022-03-02 14:57:00,059 - __main__ - INFO - STEP 1: [STARTING] DEGARI - LDH
+2022-03-02 14:57:00,059 - __main__ - INFO - STEP 1: [STARTING] - Download json dataset from LDH
+2022-03-02 14:57:00,059 - __main__ - INFO - STEP 1: [ID-DATASET]745d08a3-8f25-4c1a-a34c-e828b7e376d6
+2022-03-02 14:57:00,059 - __main__ - INFO - STEP 1: [NAME-DATASET]GAM_Collection
+2022-03-02 14:57:00,059 - __main__ - INFO - STEP 2: [PARSING] - Parsing dataset
+2022-03-02 14:57:00,068 - __main__ - INFO - STEP 3: [EXECUTE] DEGARI classification
+2022-03-02 14:57:12,816 - __main__ - INFO - STEP 4: [LOADING] RDF triple for reasoning and recommendation
+2022-03-02 14:57:12,817 - __main__ - INFO - STEP 5: [STARTING] - uploading RDF-triple to LDH

@@ -1,0 +1,4 @@
+ritratto:             0.9
+conta|conte:          0.9
+carlo:                0.9
+archinto:             0.9

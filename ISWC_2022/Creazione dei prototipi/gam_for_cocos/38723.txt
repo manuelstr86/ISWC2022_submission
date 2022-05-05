@@ -1,0 +1,4 @@
+who:                  0.9
+knows:                0.9
+the:                  0.9
+secret:               0.9

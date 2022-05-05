@@ -1,0 +1,9 @@
+cannibalismo: 0.953
+mutilazione: 0.930
+molestia: 0.914
+incesto: 0.914
+gonorrea: 0.906
+stupro: 0.906
+marcire: 0.891
+cadavere: 0.883
+massacro: 0.883

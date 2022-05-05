@@ -1,0 +1,4 @@
+zehrid:               0.9
+faruk:                0.9
+and:                  0.9
+me:                   0.9

@@ -1,0 +1,3 @@
+azione:               0.9
+domenico:             0.9
+borrelli:             0.9

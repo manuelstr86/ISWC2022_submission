@@ -1,0 +1,2 @@
+relazione:            0.9
+impropria:            0.9

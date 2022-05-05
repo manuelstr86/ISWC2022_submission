@@ -1,0 +1,3 @@
+ghosts:               0.9
+before:               0.9
+breakfast:            0.9

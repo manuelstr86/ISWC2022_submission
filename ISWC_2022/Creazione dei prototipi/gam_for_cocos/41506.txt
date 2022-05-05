@@ -1,0 +1,4 @@
+nascita:              0.9
+sviluppo:             0.9
+morte:                0.9
+illusione:            0.9

@@ -1,0 +1,9 @@
+stands:               0.9
+he:                   0.9
+desert:               0.9
+counting:             0.9
+the:                  0.9
+seconds:              0.9
+of:                   0.9
+his:                  0.9
+life:                 0.9

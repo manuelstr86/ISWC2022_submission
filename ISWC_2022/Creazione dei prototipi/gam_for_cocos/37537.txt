@@ -1,0 +1,2 @@
+dialogo:              0.9
+lys:                  0.9

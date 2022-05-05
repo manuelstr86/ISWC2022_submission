@@ -1,0 +1,3 @@
+giornata:             0.9
+malumore:             0.9
+nazionale:            0.9

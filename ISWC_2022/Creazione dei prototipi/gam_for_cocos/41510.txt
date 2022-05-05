@@ -1,0 +1,4 @@
+tv:                   0.9
+creativo:             0.9
+as:                   0.9
+medium:               0.9

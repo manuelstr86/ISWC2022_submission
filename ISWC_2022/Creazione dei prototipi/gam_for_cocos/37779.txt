@@ -1,0 +1,8 @@
+wvlnt:                0.9
+wavelenght:           0.9
+for:                  0.9
+those:                0.9
+who:                  0.9
+do:                   0.9
+have:                 0.9
+the:                  0.9

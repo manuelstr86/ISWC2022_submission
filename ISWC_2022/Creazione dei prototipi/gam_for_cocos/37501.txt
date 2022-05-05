@@ -1,0 +1,3 @@
+technology:           0.9
+wonder:               0.9
+woman:                0.9

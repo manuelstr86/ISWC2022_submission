@@ -1,0 +1,2 @@
+ritual:               0.9
+transfigured:         0.9

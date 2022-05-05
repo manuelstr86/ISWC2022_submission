@@ -1,0 +1,4 @@
+footprints:           0.9
+musica:               0.9
+jim:                  0.9
+farmer:               0.9

@@ -1,0 +1,15 @@
+celebrating: 0.9022
+liberty: 0.8934
+outstanding: 0.8406750000000001
+brave: 0.8225
+strength: 0.8184400000000001
+loyalty: 0.8142750000000001
+approval: 0.7964
+advised: 0.7845
+arriving: 0.7717
+wise: 0.7717
+not mistakes: -0.9584	
+not bid: -0.9493
+not distrust: -0.9201
+not injury: -0.8982999999999999
+not persistent: -0.8957

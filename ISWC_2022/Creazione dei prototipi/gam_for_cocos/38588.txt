@@ -1,0 +1,14 @@
+fluxfilm:             0.9
+invocation:           0.6
+of:                   0.6
+canyons:              0.6
+and:                  0.6
+boulders:             0.6
+for:                  0.6
+brakhage:             0.6
+stare:                0.6
+contenere:            0.6
+anthology:            0.6
+george:               0.6
+maciunas:             0.6
+fluxus:               0.6

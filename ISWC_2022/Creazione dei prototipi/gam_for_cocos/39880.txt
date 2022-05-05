@@ -1,0 +1,3 @@
+young:                0.9
+dictator:             0.9
+village:              0.9

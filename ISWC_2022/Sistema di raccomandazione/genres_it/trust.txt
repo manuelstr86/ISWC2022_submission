@@ -1,0 +1,9 @@
+veracità: 0.906
+affidabile: 0.867
+onesto: 0.844
+onestà: 0.844
+onore: 0.844
+verità: 0.844
+fratellanza: 0.820
+credibilità: 0.805
+impegno: 0.805

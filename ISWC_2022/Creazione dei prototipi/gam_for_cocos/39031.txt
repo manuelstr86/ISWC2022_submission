@@ -1,0 +1,7 @@
+pop-pop:              0.9
+video:                0.9
+generale:             0.9
+hospital:             0.9
+women:                0.9
+speed:                0.9
+skating:              0.9

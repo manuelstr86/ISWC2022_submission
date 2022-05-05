@@ -1,0 +1,3 @@
+wanderer:             0.9
+night:                0.9
+song:                 0.9

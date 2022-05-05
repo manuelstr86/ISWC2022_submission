@@ -1,0 +1,4 @@
+aktion:               0.9
+lehraktion:           0.9
+gam:                  0.9
+realizzare:           0.9

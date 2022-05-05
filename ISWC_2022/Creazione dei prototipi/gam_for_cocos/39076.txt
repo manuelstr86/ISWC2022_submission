@@ -1,0 +1,3 @@
+duad:                 0.9
+interpolation:        0.9
+contenere:            0.9

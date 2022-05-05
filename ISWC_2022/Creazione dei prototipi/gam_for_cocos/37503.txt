@@ -1,0 +1,7 @@
+dog:                  0.9
+star:                 0.9
+man:                  0.9
+part:                 0.9
+collezione:           0.9
+video:                0.9
+artista:              0.9

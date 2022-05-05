@@ -1,0 +1,7 @@
+the:                  0.9
+queen:                0.6
+of:                   0.6
+sheba:                0.6
+meets:                0.6
+atom:                 0.6
+man:                  0.6

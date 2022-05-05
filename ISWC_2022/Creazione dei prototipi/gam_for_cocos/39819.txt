@@ -1,0 +1,6 @@
+song:                 0.9
+travel:               0.6
+of:                   0.6
+scenes:               0.6
+and:                  0.6
+horizontals:          0.6

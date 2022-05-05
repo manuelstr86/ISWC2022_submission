@@ -1,0 +1,4 @@
+new:                  0.9
+york:                 0.9
+lightboard:           0.9
+record:               0.9

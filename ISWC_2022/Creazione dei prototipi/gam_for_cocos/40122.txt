@@ -1,0 +1,2 @@
+regno:                0.9
+napoli:               0.9

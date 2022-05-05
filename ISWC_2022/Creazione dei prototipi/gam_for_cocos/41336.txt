@@ -1,0 +1,2 @@
+course:               0.9
+landaise:             0.9

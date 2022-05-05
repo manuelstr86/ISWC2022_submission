@@ -1,0 +1,4 @@
+richter:              0.9
+on:                   0.9
+film:                 0.9
+interview:            0.9

@@ -1,0 +1,6 @@
+aktion:               0.9
+wilhelm:              0.9
+realizzare:           0.9
+hack:                 0.9
+museum:               0.9
+ludwigshafen:         0.9

@@ -1,0 +1,2 @@
+grass:                0.9
+breathing:            0.9

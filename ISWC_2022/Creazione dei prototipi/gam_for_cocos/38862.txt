@@ -1,0 +1,5 @@
+london:               0.9
+bridge:               0.9
+is:                   0.9
+falling:              0.9
+down:                 0.9

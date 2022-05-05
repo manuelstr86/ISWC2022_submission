@@ -1,0 +1,10 @@
+venus:                0.9
+reflexion:            0.6
+uber:                 0.6
+geburt:               0.6
+die:                  0.6
+der:                  0.6
+von:                  0.6
+contenere:            0.6
+amazone:              0.6
+bis:                  0.6

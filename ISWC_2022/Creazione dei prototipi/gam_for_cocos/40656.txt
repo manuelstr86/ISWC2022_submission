@@ -1,0 +1,2 @@
+elettrico:            0.9
+essere|stare:         0.9

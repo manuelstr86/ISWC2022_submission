@@ -1,0 +1,3 @@
+ritratto:             0.9
+alberto:              0.9
+rosso:                0.9

@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/Asfissia",
+      "@type":"schema:CreativeWork",
+      "dc:description":"L'opera si presentava in origine come un ampio rettangolo di circa 160x300cm. Nella parte destra (che, decurtata dallo stesso Morbelli ed esposta come autonomo esemplare a Londra nel 1888, si trova ora in collezione privata) la prospettiva dell'interno si allargava sui corpi esanimi di due amanti suicidi. Gli intenti veristici, letterari, di scoperta cronaca sociale, sono ravvisabili anche in questo cospicuo frammento, retto dal muto dialogo do oggetti inanimati restituiti con fedeltà ottica: dai fiori, oramai appassiti a terra, al cilindro posato negligentemente sulla poltrona, dalle bottiglie vuotate nel ricco banchetto che ha preceduto l'insano gesto, all'orologio su mensola accanto alla finestra dalle cui persiane traspare la luce del nuovo giorno.",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/asfissia-parte-sinistra",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Asfissia, Angelo Morbelli, Alessandria,1853 - Milano,1919",
+      "title": "Asfissia, Angelo Morbelli, Alessandria,1853 - Milano,1919",
+      "inventary": "Inventario: FD/177",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Angelo Morbelli, Alessandria,1853 - Milano,1919",
+      "year": "1969",
+      "Materiale e Tecnica": "olio su tela",
+      "dimention": "199,5x159cm.",
+      "definition": "",
+      "Acquisizione": "Acquisto della Fondazione Guido ed Ettore de Fornaris da Laura Gambarini, Torino,1986",
+      "Note Blind": "Inventario: FD/177"
+   }
+]
+

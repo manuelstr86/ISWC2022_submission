@@ -1,0 +1,4 @@
+faticoso:             0.9
+tempo:                0.9
+sicurezza:            0.9
+spaccone:             0.9

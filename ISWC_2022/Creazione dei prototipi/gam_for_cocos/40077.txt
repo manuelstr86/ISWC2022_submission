@@ -1,0 +1,2 @@
+speaking:             0.9
+directly:             0.9

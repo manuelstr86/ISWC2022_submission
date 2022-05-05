@@ -1,0 +1,5 @@
+24.aktion:            0.9
+atelier:              0.9
+realizzare:           0.9
+artista:              0.9
+luglio:               0.9

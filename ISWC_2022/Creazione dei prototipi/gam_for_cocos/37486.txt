@@ -1,0 +1,5 @@
+stesso:               0.9
+istante:              0.9
+montaggio:            0.9
+massimo:              0.9
+bacigalupo:           0.9

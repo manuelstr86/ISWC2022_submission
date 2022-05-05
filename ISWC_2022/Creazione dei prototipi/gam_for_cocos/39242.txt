@@ -1,0 +1,2 @@
+beautiful:            0.9
+spaghetto:            0.9

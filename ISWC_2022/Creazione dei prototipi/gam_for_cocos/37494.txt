@@ -1,0 +1,3 @@
+the:                  0.9
+water:                0.9
+catalogue:            0.9

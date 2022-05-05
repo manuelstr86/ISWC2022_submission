@@ -1,0 +1,4 @@
+warning:              0.9
+attack:               0.9
+and:                  0.9
+recovery:             0.9

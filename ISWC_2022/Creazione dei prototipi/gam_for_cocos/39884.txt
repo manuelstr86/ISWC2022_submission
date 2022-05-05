@@ -1,0 +1,3 @@
+blinked:              0.9
+three:                0.9
+times:                0.9

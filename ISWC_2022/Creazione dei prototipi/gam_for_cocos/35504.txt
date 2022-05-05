@@ -1,0 +1,2 @@
+storia:               0.9
+catalano:             0.9

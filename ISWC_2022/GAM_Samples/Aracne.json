@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/Aracne",
+      "@type":"schema:CreativeWork",
+      "dc:description":"Della pittura di genere moderno, cui Stratta si dedicherà, in particolare dagli anni Novanta, trattando con estrema perizia la restituzione d’ambiente, è esemplare il dipinto Aracne, del 1893, in cui l’interieur è ricco di richiami alle “mode” orientaleggianti di fine secolo, dalla nota arabo-ispanica del tavolino moresco che ricorda le creazioni di Carlo Bugatti, al Japonisme del lampione di carta di riso e della tenda-paravento. La caratterizzazione ambientale è finalizzata al risalto psicologico del personaggio:  la giovane donna fissa volitiva e interrogante lo spettatore,  quasi in un moto di sfida, al centro  di un avviluppante décor domestico ove natura e artificio si mescolano confondendosi, mentre nella luce diffusa prende vita in un groviglio di colli, becchi e ali, il volo di stoffa degli aironi, quasi fossero i pensieri che irradiano dalla bella, enigmatica testa dorata. Il maestro Fontanesi aveva infatti scritto in una lettera all’allievo prediletto di studiare il vero all’aria aperta durante il giorno, dedicando la sera agli studi di figura, invitandolo a raffinare entrambe le polarità espressive della visione: “il paesaggio, cioè la luce, lo spazio, l’atmosfera e tutto ciò che si contiene nell’immensità, cioè l’infinito”, e \\“la figura, cioè l’anima umana e tutte le sue passioni, cioè rendere visibile l’invisibile\\”",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/aracne",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: Vetrima",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Aracne, Carlo Stratta Torino, 1852 – 1936",
+      "title": "Aracne, Carlo Stratta Torino, 1852 – 1936",
+      "inventary": "S/2",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Carlo Stratta Torino, 1852 – 1936",
+      "year": "1852 – 1936",
+      "Materiale e Tecnica": "olio su tela",
+      "dimention": "cm 120x 113",
+      "definition": "",
+      "Acquisizione": "Lascito del marchese Tancredi Falletti di Barolo, Torino, 1936",
+      "Note Blind": "Inventario: p/480"
+   }
+]
+

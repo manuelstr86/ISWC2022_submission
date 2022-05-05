@@ -1,0 +1,14 @@
+acqua:                0.9
+incontro:             0.9
+fiume:                0.9
+canada:               0.9
+freddo:               0.9
+carezza:              0.9
+immergere:            0.9
+atelier_nomade:       0.9
+gesti_fluidi:         0.9
+garza:                0.9
+corrente:             0.9
+nuotare:              0.9
+purificazione:        0.9
+acqua_fredda:         0.9

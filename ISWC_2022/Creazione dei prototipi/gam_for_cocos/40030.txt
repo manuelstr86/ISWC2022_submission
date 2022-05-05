@@ -1,0 +1,2 @@
+shy:                  0.9
+hamburger:            0.9

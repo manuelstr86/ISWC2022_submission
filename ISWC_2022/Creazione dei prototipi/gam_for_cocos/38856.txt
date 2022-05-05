@@ -1,0 +1,9 @@
+the:                  0.9
+film:                 0.9
+of:                   0.9
+her:                  0.9
+musica:               0.9
+bill:                 0.9
+frisell:              0.9
+henryk:               0.9
+gørecki:              0.9

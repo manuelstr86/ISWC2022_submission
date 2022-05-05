@@ -1,0 +1,7 @@
+song:                 0.9
+verticals:            0.9
+and:                  0.9
+shadows:              0.9
+caught:               0.9
+glass:                0.9
+traps:                0.9

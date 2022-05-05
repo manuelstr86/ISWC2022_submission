@@ -1,0 +1,12 @@
+gatto:                0.9
+micio:                0.9
+felino:               0.9
+donna:                0.9
+gufo:                 0.9
+radice:               0.9
+ramo:                 0.9
+uccello:              0.9
+metafora:             0.9
+china:                0.9
+acquerello:           0.9
+acrilico:             0.9

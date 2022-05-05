@@ -1,0 +1,6 @@
+evil:                 0.9
+pop:                  0.9
+futuro:               0.9
+contenere:            0.9
+obsoleto:             0.9
+vol:                  0.9

@@ -1,0 +1,3 @@
+orizzonte:            0.9
+assoluto:             0.9
+evento:               0.9

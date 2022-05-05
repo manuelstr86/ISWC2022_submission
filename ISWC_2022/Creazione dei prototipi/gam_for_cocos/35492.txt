@@ -1,0 +1,2 @@
+permesso:             0.9
+soggiorno:            0.9

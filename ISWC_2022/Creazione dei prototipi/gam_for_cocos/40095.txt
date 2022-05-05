@@ -1,0 +1,7 @@
+researches:           0.9
+undertaken:           0.9
+for:                  0.9
+the:                  0.9
+museum:               0.9
+of:                   0.9
+alessandro:           0.9

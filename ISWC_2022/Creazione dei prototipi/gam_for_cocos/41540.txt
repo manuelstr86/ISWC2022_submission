@@ -1,0 +1,2 @@
+gianluca:             0.9
+analogico:            0.9

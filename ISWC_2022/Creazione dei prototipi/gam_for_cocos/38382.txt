@@ -1,0 +1,7 @@
+the:                  0.9
+voyage:               0.6
+to:                   0.6
+center:               0.6
+of:                   0.6
+phone:                0.6
+lines:                0.6

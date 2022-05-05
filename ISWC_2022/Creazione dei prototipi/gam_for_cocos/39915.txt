@@ -1,0 +1,8 @@
+work:                 0.9
+ship:                 0.9
+is:                   0.9
+coming:               0.9
+videoinstallazione:   0.9
+due:                  0.9
+canale:               0.9
+monitor:              0.9

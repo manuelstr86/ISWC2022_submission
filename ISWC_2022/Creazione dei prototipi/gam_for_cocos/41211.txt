@@ -1,0 +1,8 @@
+aktion:               0.9
+lecture:              0.9
+action:               0.9
+whitechapel:          0.9
+realizzare:           0.9
+art:                  0.9
+gallery:              0.9
+londra:               0.9

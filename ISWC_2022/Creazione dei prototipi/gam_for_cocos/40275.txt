@@ -1,0 +1,4 @@
+lieto:                0.9
+fine:                 0.9
+luce:                 0.9
+messaggero:           0.9

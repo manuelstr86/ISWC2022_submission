@@ -1,0 +1,3 @@
+homme:                0.9
+femme:                0.9
+michel:               0.9

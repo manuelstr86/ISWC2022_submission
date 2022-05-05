@@ -1,0 +1,10 @@
+by:                   0.9
+rameau:               0.6
+nephew:               0.6
+diderot:              0.6
+thanx:                0.6
+to:                   0.6
+dennis:               0.6
+young:                0.6
+wilma:                0.6
+schoen:               0.6

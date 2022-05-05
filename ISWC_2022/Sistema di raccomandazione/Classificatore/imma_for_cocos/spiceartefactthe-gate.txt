@@ -1,0 +1,16 @@
+the:                  0.9
+by:                   0.9
+gate:                 0.9
+deborah:              0.9
+brown:                0.9
+draws:                0.9
+on:                   0.9
+two:                  0.9
+sources:              0.9
+of:                   0.9
+inspiration:          0.9
+both:                 0.9
+dealing:              0.9
+with:                 0.9
+human:                0.9
+freedom:              0.9

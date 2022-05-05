@@ -1,0 +1,43 @@
+#Title composizione
+Title : loyalty-trust
+
+#Concetto Principale
+Head Concept Name : loyalty
+
+#Concetto Modificatore
+Modifier Concept Name : trust
+
+
+
+modifier, -anticipation
+modifier, -cannibalism
+modifier, -molestation
+modifier, -rape
+
+
+T(modifier), truthfulness, 0.91
+T(modifier), trustworthy, 0.87
+T(modifier), honest, 0.84
+T(modifier), honesty, 0.84
+T(modifier), honor, 0.84
+T(modifier), truth, 0.84
+T(modifier), brotherhood, 0.82
+T(modifier), credibility, 0.81
+T(modifier), committed, 0.81
+T(modifier), loyalty, 0.81
+T(modifier), trust, 0.81
+T(modifier), integrity, 0.81
+
+T(head), responses, 0.9
+T(head), establishing, 0.84
+T(head), policing, 0.83
+T(head), tolerance, 0.81
+T(head), temperatures, 0.8
+T(head), commit, 0.78
+T(head), attract, 0.77
+T(head), heritage, 0.76
+T(head), likes, 0.76
+T(head), praise, 0.76
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', 6.001459152536533e-09

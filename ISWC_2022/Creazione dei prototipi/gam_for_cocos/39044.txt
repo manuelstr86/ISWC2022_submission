@@ -1,0 +1,3 @@
+emphaty:              0.9
+and:                  0.9
+abstraction:          0.9

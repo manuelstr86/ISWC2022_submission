@@ -1,0 +1,3 @@
+cleaning:             0.9
+the:                  0.9
+house:                0.9

@@ -1,0 +1,4 @@
+hapax:                0.9
+legomena:             0.9
+remoto:               0.9
+control:              0.9

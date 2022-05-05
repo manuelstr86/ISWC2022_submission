@@ -1,0 +1,2 @@
+impronta:             0.9
+pollice:              0.9

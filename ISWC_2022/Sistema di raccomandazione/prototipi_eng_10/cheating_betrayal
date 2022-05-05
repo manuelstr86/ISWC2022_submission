@@ -1,0 +1,56 @@
+#Title composizione
+Title : cheating-betrayal
+
+#Concetto Principale
+Head Concept Name : cheating
+
+#Concetto Modificatore
+Modifier Concept Name : betrayal
+
+
+
+
+
+T(modifier), row, 0.96
+T(modifier), witnesses, 0.92
+T(modifier), trapped, 0.92
+T(modifier), shoot, 0.91
+T(modifier), waste, 0.9
+T(modifier), temporary, 0.89
+T(modifier), perpetrators, 0.88
+T(modifier), cruel, 0.88
+T(modifier), requested, 0.86
+T(modifier), penalty, 0.86
+T(modifier), injury, 0.86
+T(modifier), deport, 0.86
+T(modifier), rape, 0.85
+T(modifier), attacker, 0.83
+T(modifier), prosecuted, 0.83
+T(modifier), beating, 0.83
+T(modifier), survive, 0.82
+T(modifier), torture, 0.82
+T(modifier), weak, 0.8
+T(modifier), bomber, 0.8
+T(modifier), destruction, 0.79
+
+T(head), girlfriend, 0.94
+T(head), gunfire, 0.92
+T(head), rape, 0.91
+T(head), assassination, 0.88
+T(head), tortured, 0.87
+T(head), witnesses, 0.87
+T(head), cruel, 0.86
+T(head), murdered, 0.86
+T(head), sheriff, 0.86
+T(head), replied, 0.85
+T(head), videos, 0.84
+T(head), ambassador, 0.84
+T(head), attacker, 0.82
+T(head), remote, 0.82
+T(head), anger, 0.82
+T(head), shoot, 0.82
+T(head), killings, 0.81
+T(head), variety, 0.81
+T(head), substance, 0.81
+T(head), raping, 0.81
+

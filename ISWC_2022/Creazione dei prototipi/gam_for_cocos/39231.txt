@@ -1,0 +1,2 @@
+bordo:                0.9
+tagliente:            0.9

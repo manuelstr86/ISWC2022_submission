@@ -1,0 +1,4 @@
+without:              0.9
+one:                  0.9
+the:                  0.9
+other:                0.9

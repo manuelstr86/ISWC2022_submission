@@ -1,0 +1,2 @@
+casa:                 0.9
+gialla:               0.9

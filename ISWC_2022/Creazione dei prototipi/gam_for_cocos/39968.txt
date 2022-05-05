@@ -1,0 +1,5 @@
+girum:                0.9
+imus:                 0.9
+nocte:                0.9
+consumimur:           0.9
+et:                   0.9

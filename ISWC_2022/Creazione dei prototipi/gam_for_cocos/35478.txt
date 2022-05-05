@@ -1,0 +1,3 @@
+concetto:             0.9
+spaziale:             0.9
+teatrino:             0.9

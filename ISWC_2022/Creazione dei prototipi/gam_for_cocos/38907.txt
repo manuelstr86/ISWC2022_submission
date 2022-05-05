@@ -1,0 +1,7 @@
+scratch:              0.9000000000000001
+video:                0.9000000000000001
+raccolta:             0.6
+contenere:            0.6
+greatest:             0.6
+hits:                 0.6
+vol:                  0.6

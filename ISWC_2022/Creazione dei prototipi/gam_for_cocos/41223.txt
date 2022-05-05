@@ -1,0 +1,7 @@
+alnus:                0.9
+khon:                 0.9
+naga:                 0.9
+siam:                 0.9
+muay:                 0.9
+aureo:                0.9
+saga:                 0.9

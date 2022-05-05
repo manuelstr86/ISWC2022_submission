@@ -1,0 +1,5 @@
+essere:               0.9
+morto:                0.6
+vivo:                 0.6
+stesso:               0.6
+cosa:                 0.6

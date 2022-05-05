@@ -1,0 +1,6 @@
+this:                 0.9
+is:                   0.9
+history:              0.9
+of:                   0.9
+new:                  0.9
+york:                 0.9

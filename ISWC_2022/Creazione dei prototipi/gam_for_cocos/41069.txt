@@ -1,0 +1,3 @@
+modest:               0.9
+proposal:             0.9
+edward:               0.9

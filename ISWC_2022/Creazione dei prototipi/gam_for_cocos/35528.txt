@@ -1,0 +1,2 @@
+pistoletto:           0.9
+michelangelo:         0.9

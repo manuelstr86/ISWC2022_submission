@@ -1,0 +1,36 @@
+#Title composizione
+Title : trust-anticipation
+
+#Concetto Principale
+Head Concept Name : trust
+
+#Concetto Modificatore
+Modifier Concept Name : anticipation
+
+head, -cannibalism
+head, -molestation
+head, -rape
+
+modifier, -surprise
+
+
+T(modifier), anticipation, 0.86
+T(modifier), excited, 0.86
+T(modifier), eagerness, 0.81
+T(modifier), expectant, 0.79
+T(modifier), thrilling, 0.78
+T(modifier), hope, 0.77
+T(modifier), quest, 0.77
+T(modifier), start, 0.75
+T(modifier), adventure, 0.75
+
+T(head), truthfulness, 0.91
+T(head), trustworthy, 0.87
+T(head), honest, 0.84
+T(head), honesty, 0.84
+T(head), honor, 0.84
+T(head), truth, 0.84
+T(head), brotherhood, 0.82
+T(head), credibility, 0.81
+T(head), committed, 0.81
+

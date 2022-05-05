@@ -1,0 +1,2 @@
+spiritual:            0.9
+constructions:        0.9

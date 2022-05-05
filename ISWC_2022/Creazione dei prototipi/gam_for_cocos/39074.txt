@@ -1,0 +1,2 @@
+interpolation:        0.9
+contenere:            0.6

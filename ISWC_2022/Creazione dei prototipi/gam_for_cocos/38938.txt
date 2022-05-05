@@ -1,0 +1,2 @@
+proprietà:            0.9
+privato:              0.9

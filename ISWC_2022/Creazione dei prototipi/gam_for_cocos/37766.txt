@@ -1,0 +1,5 @@
+berlin:               0.9
+symphony:             0.9
+of:                   0.9
+great:                0.9
+city:                 0.9

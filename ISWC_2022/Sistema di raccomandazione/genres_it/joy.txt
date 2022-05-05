@@ -1,0 +1,9 @@
+felicità: 0.984
+beatitudine: 0.971
+festeggiare: 0.970
+giubilante: 0.969
+estatico: 0.954
+euforia: 0.944
+raggiante: 0.938
+grandiosità: 0.926
+gioia: 0.924

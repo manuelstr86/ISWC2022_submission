@@ -1,0 +1,2 @@
+accettazione:         0.9
+chiarezza:            0.9

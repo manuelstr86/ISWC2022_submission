@@ -1,0 +1,2 @@
+proposito:            0.9
+venezia:              0.9

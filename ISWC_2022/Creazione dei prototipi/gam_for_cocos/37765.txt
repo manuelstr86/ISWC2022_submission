@@ -1,0 +1,6 @@
+vital:                0.9
+statistics:           0.9
+of:                   0.9
+citizen:              0.9
+simply:               0.9
+obtained:             0.9

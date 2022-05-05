@@ -1,0 +1,2 @@
+vitello:              0.9
+oro:                  0.9

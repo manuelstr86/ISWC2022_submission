@@ -1,0 +1,5 @@
+becoming:             0.9
+angel:                0.9
+an:                   0.9
+second:               0.9
+version:              0.9

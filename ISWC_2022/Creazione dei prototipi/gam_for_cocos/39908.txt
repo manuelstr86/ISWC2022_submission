@@ -1,0 +1,3 @@
+black:                0.9
+hole:                 0.9
+radio:                0.9

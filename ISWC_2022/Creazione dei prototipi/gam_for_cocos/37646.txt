@@ -1,0 +1,2 @@
+color|colore:         0.9
+cry:                  0.9

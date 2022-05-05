@@ -1,0 +1,5 @@
+du:                   0.9
+les:                  0.6
+mystères:             0.6
+château:              0.6
+dé:                   0.6

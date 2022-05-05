@@ -1,0 +1,2 @@
+estetica:             0.9
+noia:                 0.9

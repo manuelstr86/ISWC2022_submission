@@ -1,0 +1,3 @@
+operatore:            0.9
+macchinatore:         0.9
+perforare:            0.9

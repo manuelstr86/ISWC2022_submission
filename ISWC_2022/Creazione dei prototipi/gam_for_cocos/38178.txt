@@ -1,0 +1,4 @@
+the:                  0.9
+smiling:              0.9
+madama|madame:        0.9
+beudet:               0.9

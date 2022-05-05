@@ -1,0 +1,9 @@
+normbewegungen:       0.9
+parte:                0.9
+istallazione:         0.9
+beton:                0.9
+intitolare:           0.9
+due:                  0.9
+costituire:           0.9
+film:                 0.9
+16mm:                 0.9

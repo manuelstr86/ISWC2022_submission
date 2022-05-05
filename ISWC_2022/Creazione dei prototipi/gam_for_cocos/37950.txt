@@ -1,0 +1,8 @@
+esposizione:          0.9
+tempo:                0.9
+reale:                0.9
+n.6:                  0.9
+mendicante:           0.9
+elettronico:          0.9
+bettler:              0.9
+der:                  0.9

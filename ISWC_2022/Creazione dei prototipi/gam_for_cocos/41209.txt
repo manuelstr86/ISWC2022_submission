@@ -1,0 +1,6 @@
+aktion:               0.9
+primo:                0.9
+secondo:              0.9
+parte:                0.9
+prinzendorf:          0.9
+realizzare:           0.9

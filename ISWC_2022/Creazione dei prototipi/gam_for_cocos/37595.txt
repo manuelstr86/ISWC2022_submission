@@ -1,0 +1,16 @@
+to:                   0.9000000000000001
+the:                  0.9000000000000001
+nummer:               0.6
+zes:                  0.6
+steinway:             0.6
+grand:                0.6
+piano:                0.6
+wake:                 0.6
+me:                   0.6
+up:                   0.6
+go:                   0.6
+sleep:                0.6
+and:                  0.6
+colors:               0.6
+of:                   0.6
+rainbow:              0.6

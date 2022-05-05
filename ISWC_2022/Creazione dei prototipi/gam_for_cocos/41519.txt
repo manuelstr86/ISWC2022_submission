@@ -1,0 +1,3 @@
+tomorrow:             0.9
+knows:                0.9
+never:                0.9

@@ -1,0 +1,7 @@
+the:                  0.9000000000000001
+medium:               0.9000000000000001
+electronic:           0.6
+light:                0.6
+ballet:               0.6
+contenere:            0.6
+is:                   0.6

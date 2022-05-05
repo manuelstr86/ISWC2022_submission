@@ -1,0 +1,3 @@
+the:                  0.9
+eternal:              0.9
+frame:                0.9

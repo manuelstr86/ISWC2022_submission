@@ -1,0 +1,2 @@
+folding:              0.9
+hat:                  0.9

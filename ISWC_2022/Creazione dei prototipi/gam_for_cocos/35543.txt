@@ -1,0 +1,4 @@
+landscape:            0.9
+urban:                0.9
+los:                  0.9
+angeles:              0.9

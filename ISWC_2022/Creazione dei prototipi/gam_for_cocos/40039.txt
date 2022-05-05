@@ -1,0 +1,6 @@
+gatto:                0.9
+duetto:               0.6
+concerto:             0.6
+omaggio:              0.6
+contenere:            0.6
+rossini:              0.6

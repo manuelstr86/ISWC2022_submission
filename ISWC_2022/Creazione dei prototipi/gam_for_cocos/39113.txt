@@ -1,0 +1,3 @@
+gabinetto:            0.9
+dottore:              0.9
+caligari:             0.9

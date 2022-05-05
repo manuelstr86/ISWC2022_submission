@@ -1,0 +1,3 @@
+singlossia:           0.9
+albero:               0.9
+surreale:             0.9

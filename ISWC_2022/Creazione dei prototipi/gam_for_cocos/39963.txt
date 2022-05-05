@@ -1,0 +1,3 @@
+société:              0.9
+du:                   0.9
+spectacle:            0.9

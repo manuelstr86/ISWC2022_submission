@@ -1,0 +1,9 @@
+four:                 0.9
+thousand:             0.9
+seven:                0.9
+hundred:              0.9
+and:                  0.9
+twenty:               0.9
+five:                 0.9
+motion:               0.9
+control:              0.9

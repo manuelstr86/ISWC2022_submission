@@ -1,0 +1,2 @@
+stars:                0.9
+stripes:              0.9

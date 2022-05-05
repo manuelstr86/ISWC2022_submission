@@ -1,0 +1,3 @@
+malaktion:            0.9
+vienna:               0.9
+secession:            0.9

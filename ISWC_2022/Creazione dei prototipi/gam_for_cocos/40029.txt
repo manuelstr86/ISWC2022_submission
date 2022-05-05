@@ -1,0 +1,5 @@
+search:               0.9
+volumes:              0.9
+isolated:             0.9
+an:                   0.9
+building:             0.9

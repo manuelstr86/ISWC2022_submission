@@ -1,0 +1,7 @@
+the:                  0.9
+voice:                0.9
+performance:          0.9
+as:                   0.9
+act:                  0.9
+and:                  0.9
+body:                 0.9

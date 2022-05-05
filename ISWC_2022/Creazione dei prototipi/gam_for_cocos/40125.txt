@@ -1,0 +1,2 @@
+tale:                 0.9
+farlow:               0.9

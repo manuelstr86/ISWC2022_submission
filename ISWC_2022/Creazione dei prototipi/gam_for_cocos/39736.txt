@@ -1,0 +1,4 @@
+martha:               0.9
+rosler:               0.9
+reads:                0.9
+vogue:                0.9

@@ -1,0 +1,2 @@
+guadalcanal:          0.9
+requiem:              0.9

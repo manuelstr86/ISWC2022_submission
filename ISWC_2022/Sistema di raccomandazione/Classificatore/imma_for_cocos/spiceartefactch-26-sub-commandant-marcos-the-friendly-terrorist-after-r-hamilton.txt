@@ -1,0 +1,14 @@
+if:                   0.9
+as:                   0.9
+by:                   0.9
+way:                  0.9
+of:                   0.9
+nod:                  0.9
+to:                   0.9
+oeil:                 0.9
+trompe:               0.9
+the:                  0.9
+works:                0.9
+forming:              0.9
+nevan:                0.9
+lahart:               0.9

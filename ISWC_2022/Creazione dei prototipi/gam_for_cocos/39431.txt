@@ -1,0 +1,3 @@
+tamburo:              0.9
+campana:              0.9
+campanaccio:          0.9

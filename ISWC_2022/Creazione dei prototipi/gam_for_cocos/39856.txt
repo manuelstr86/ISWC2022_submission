@@ -1,0 +1,4 @@
+goldfish:             0.9
+on:                   0.9
+the:                  0.9
+bridge:               0.9

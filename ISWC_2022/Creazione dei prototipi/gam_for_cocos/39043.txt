@@ -1,0 +1,3 @@
+manipuler:            0.9
+corps:                0.9
+essere:               0.9

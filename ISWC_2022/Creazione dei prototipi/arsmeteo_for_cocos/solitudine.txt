@@ -1,0 +1,4 @@
+metempsicosi:         0.9
+bambino:              0.9
+barchette_di_carta:   0.9
+muro:                 0.9

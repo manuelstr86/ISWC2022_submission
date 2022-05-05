@@ -1,0 +1,3 @@
+electronic:           0.9
+opera:                0.9
+n.1:                  0.9

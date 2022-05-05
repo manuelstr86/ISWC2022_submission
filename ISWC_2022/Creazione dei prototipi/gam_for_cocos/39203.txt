@@ -1,0 +1,2 @@
+cartes:               0.9
+postales:             0.9

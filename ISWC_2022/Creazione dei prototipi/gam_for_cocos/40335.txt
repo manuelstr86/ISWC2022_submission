@@ -1,0 +1,4 @@
+luce:                 0.9
+randagio:             0.9
+wandering:            0.9
+light:                0.9

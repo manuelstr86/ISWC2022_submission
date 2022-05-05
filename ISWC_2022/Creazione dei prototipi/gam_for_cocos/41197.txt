@@ -1,0 +1,5 @@
+aktion:               0.9
+primo:                0.9
+esecuzione:           0.9
+vienna:               0.9
+realizzare:           0.9

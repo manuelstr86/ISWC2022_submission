@@ -1,0 +1,2 @@
+chartres:             0.9
+series:               0.9

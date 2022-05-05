@@ -1,0 +1,10 @@
+the:                  0.9
+work:                 0.9
+of:                   0.9
+canell:               0.9
+nina:                 0.9
+attempts:             0.9
+to:                   0.9
+intersection:         0.9
+an:                   0.9
+between:              0.9

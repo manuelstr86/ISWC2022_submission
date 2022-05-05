@@ -1,0 +1,8 @@
+pittura:              0.9
+presagista:           0.9
+luigi:                0.9
+battista:             0.9
+futuro:               0.9
+contenere:            0.9
+obsoleto:             0.9
+vol:                  0.9

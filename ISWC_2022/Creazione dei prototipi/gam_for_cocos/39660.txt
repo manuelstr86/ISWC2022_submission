@@ -1,0 +1,5 @@
+de:                   0.9
+volcan:               0.9
+arena:                0.9
+silueta:              0.9
+series:               0.9

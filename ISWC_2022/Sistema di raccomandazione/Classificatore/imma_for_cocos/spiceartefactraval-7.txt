@@ -1,0 +1,17 @@
+is:                   0.9
+it:                   0.75
+imma:                 0.75
+raval:                0.6
+work:                 0.6
+by:                   0.6
+scully:               0.6
+sean:                 0.6
+not:                  0.6
+currently:            0.6
+on:                   0.6
+display:              0.6
+part:                 0.6
+of:                   0.6
+the:                  0.6
+permanent:            0.6
+collection:           0.6

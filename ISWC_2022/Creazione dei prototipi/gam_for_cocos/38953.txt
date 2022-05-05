@@ -1,0 +1,2 @@
+malessere:            0.9
+speciale:             0.9

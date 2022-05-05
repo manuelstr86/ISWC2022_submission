@@ -1,0 +1,5 @@
+vestizione:           0.9
+cosmonauta:           0.9
+project:              0.9
+unnha:                0.9
+donna:                0.9

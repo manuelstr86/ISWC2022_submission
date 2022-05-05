@@ -1,0 +1,3 @@
+performance:          0.9
+accademia:            0.9
+brera:                0.9

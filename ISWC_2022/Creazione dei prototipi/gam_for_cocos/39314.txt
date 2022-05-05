@@ -1,0 +1,2 @@
+tela:                 0.9
+filosofico:           0.9

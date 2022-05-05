@@ -1,0 +1,4 @@
+tryghed:              0.9
+vejen:                0.9
+pa:                   0.9
+security:             0.9

@@ -1,0 +1,33 @@
+#Title composizione
+Title : betrayal-disapproval
+
+#Concetto Principale
+Head Concept Name : betrayal
+
+#Concetto Modificatore
+Modifier Concept Name : disapproval
+
+
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), heartbreaking, 0.97
+T(modifier), mourning, 0.97
+T(modifier), tragic, 0.96
+T(modifier), holocaust, 0.95
+T(modifier), misery, 0.94
+
+T(head), row, 0.96
+T(head), witnesses, 0.92
+T(head), trapped, 0.92
+T(head), shoot, 0.91
+T(head), waste, 0.9
+T(head), temporary, 0.89
+T(head), perpetrators, 0.88
+T(head), cruel, 0.88
+T(head), requested, 0.86
+T(head), penalty, 0.86
+
+
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', '0', '0', 1.4809892783208107e-06

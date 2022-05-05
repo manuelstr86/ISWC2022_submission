@@ -1,0 +1,12 @@
+life:                 0.9
+exile:                0.9
+resisting:            0.9
+the:                  0.9
+chinese:              0.9
+occupation:           0.9
+personal:             0.9
+accounts:             0.9
+of:                   0.9
+tibetans:             0.9
+part:                 0.9
+two:                  0.9

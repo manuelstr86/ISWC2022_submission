@@ -1,0 +1,5 @@
+happy:                0.9
+birthday:             0.9
+to:                   0.9
+john:                 0.9
+lennon:               0.9

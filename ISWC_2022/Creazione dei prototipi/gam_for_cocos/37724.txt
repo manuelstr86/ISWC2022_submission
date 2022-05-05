@@ -1,0 +1,1 @@
+lines-horizontal:     0.9

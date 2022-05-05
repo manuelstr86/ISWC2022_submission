@@ -1,0 +1,8 @@
+song:                 0.9
+three:                0.9
+girls:                0.9
+playing:              0.9
+with:                 0.9
+ball:                 0.9
+hand:                 0.9
+painted:              0.9

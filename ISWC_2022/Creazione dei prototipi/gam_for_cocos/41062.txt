@@ -1,0 +1,5 @@
+as:                   0.9
+well:                 0.7
+green:                0.6
+blue:                 0.6
+red:                  0.6

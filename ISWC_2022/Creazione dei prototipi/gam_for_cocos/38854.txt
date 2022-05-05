@@ -1,0 +1,7 @@
+the:                  0.9
+world:                0.9
+is:                   0.9
+round:                0.9
+musica:               0.9
+jim:                  0.9
+farmer:               0.9

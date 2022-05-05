@@ -1,0 +1,6 @@
+remy:                 0.9
+central:              0.9
+station:              0.9
+trains:               0.9
+boats:                0.9
+planes:               0.9

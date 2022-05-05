@@ -1,0 +1,6 @@
+surprise: 0.93
+torture: 0.98
+terrorist: 0.97
+horrific: 0.97
+kill: 0.96
+terror: 0.95

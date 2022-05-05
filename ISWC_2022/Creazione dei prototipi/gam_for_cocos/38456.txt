@@ -1,0 +1,2 @@
+living:               0.9
+inside:               0.9

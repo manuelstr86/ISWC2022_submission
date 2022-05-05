@@ -1,0 +1,2 @@
+peinture:             0.9
+cubista:              0.9

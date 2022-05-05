@@ -1,0 +1,2 @@
+mindscape:            0.9
+dwellers:             0.9

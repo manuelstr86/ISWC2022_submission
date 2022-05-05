@@ -1,0 +1,6 @@
+bewegte:              0.9
+bilder:               0.9
+uber:                 0.9
+sich:                 0.9
+bewegende:            0.9
+personen:             0.9

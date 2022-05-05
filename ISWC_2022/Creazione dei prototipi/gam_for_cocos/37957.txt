@@ -1,0 +1,2 @@
+uomo:                 0.9
+macchina:             0.9

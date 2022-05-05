@@ -1,0 +1,2 @@
+double:               0.9
+trouble:              0.9

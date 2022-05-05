@@ -1,0 +1,5 @@
+galante:              0.9
+avventura:            0.9
+cavaliere:            0.9
+lieto:                0.9
+volto:                0.9

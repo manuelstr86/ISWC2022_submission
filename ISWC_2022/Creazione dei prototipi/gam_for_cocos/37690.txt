@@ -1,0 +1,5 @@
+colore:               0.9
+luce:                 0.9
+musica:               0.9
+berio:                0.9
+luciano:              0.9

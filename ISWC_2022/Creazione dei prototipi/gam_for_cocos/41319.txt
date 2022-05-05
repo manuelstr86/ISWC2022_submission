@@ -1,0 +1,4 @@
+angelo:               0.9
+occidente:            0.9
+il:                   0.9
+parte:                0.9

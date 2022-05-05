@@ -1,0 +1,2 @@
+by:                   0.9
+yourself:             0.9

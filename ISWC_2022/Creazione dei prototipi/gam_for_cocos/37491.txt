@@ -1,0 +1,2 @@
+verifica:             0.9
+incerta:              0.9

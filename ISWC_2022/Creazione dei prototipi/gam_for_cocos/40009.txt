@@ -1,0 +1,3 @@
+the:                  0.9
+smallest:             0.9
+particle:             0.9

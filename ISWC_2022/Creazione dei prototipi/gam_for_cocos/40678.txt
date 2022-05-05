@@ -1,0 +1,3 @@
+movimento:            0.9
+paolo:                0.9
+piscitelli-blu:       0.9

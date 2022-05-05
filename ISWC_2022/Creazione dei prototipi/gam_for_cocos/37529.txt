@@ -1,0 +1,3 @@
+ricerca:              0.9
+oggetto:              0.9
+dinamico:             0.9

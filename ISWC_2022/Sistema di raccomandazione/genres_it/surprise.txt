@@ -1,0 +1,9 @@
+sorpresa: 0.930
+sbalordire: 0.906
+esplodere: 0.906
+imboscata: 0.883
+eruzione: 0.883
+impaurire: 0.875
+spaventare: 0.875
+scandalosamente: 0.875
+eccitante: 0.859

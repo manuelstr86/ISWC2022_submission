@@ -1,0 +1,22 @@
+businessman: 0.9698
+strength:0.891
+divisions: 0.8176
+loved: 0.8049666666666667
+beautiful: 0.802
+breathing: 0.7906
+winning: 0.7860999999999999
+spy: 0.7783
+welcomed: 0.765
+improvement: 0.763
+celebrate: 0.76285
+loves: 0.7602
+celebrated: 0.7542500000000001
+liked: 0.7506
+friendship: 0.7306
+outstanding: 0.7248
+easily: 0.7016
+sake: 0.7003
+smoking: 0.7003
+ensuring: 0.6870285714285714
+honored: 0.6738874999999999
+

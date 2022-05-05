@@ -1,0 +1,4 @@
+pattern:              0.9
+uneuclidean:          0.9
+musica:               0.9
+mass:                 0.9

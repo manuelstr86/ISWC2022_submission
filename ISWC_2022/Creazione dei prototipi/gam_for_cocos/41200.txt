@@ -1,0 +1,5 @@
+aktion:               0.9
+primo:                0.9
+giorno:               0.9
+prinzendorf:          0.9
+realizzare:           0.9

@@ -1,0 +1,4 @@
+ixchell:              0.9
+candle:               0.6
+black:                0.6
+series:               0.6

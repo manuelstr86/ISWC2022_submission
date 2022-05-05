@@ -1,0 +1,9 @@
+fluxfilm:             0.9
+entrance:             0.6
+to:                   0.6
+exit:                 0.6
+contenere:            0.6
+anthology:            0.6
+george:               0.6
+maciunas:             0.6
+fluxus:               0.6

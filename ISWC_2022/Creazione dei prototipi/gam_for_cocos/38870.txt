@@ -1,0 +1,5 @@
+three:                0.9
+homerics:             0.9
+for:                  0.9
+barbara:              0.9
+feldman:              0.9

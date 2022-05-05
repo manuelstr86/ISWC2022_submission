@@ -1,0 +1,6 @@
+surprise: 0.93
+heartbreaking: 0.97
+mourning: 0.97
+tragic: 0.96
+holocaust: 0.95
+misery: 0.94

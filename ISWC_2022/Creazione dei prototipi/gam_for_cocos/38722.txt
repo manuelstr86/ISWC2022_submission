@@ -1,0 +1,4 @@
+wardrobes:            0.9
+of:                   0.9
+the:                  0.9
+mind:                 0.9

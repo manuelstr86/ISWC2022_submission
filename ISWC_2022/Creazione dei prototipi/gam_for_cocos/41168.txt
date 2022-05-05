@@ -1,0 +1,2 @@
+adjungierte:          0.9
+dislokationem:        0.9

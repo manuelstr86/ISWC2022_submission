@@ -1,0 +1,5 @@
+the:                  0.9
+inauguration:         0.6
+of:                   0.6
+pleasure:             0.6
+domo:                 0.6

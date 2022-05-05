@@ -1,0 +1,26 @@
+[
+   {
+      "@id":"gam:artefact/GotineRosse",
+      "@type":"schema:CreativeWork",
+      "dc:description":"Questo notissimo ritratto di Fattori fa la sua comparsa alla Prima Biennale Romana del 1921 dove Marangoni lo nota per \"il gustosissimo contrasto tra la pienezza rubiconda e accesa delle gote di pesca matura e l'acuta e tagliente sagoma del profilo\". Da allora il dipinto è stato presentato in quasi tutte le principali mostre di Fattori, fino a quella milanese del 1988. In questa occasione E. Spalletti sottolinea come Fattori, avvicinandosi alla ritrattistica di tipo intimo in voga in quel periodo, \"la pieghi però all'esigenza di una severa strutturazione stilistica\", data dalla \"forza sintetica\" del segno che traccia il profilo e isola dal fondo neutro la figura della bambina, tutta giocata tra i toni verde cupo della veste e il fulvo dei capelli. L'opera è stata inizialmente datata verso il 1875 da Tinti (1926); tuttavia Durbé, in occasione della mostra di Parigi del 1978-1979, ipotizza una datazione intorno al 1882.",
+      "dc:source":"GAM - Torino, 2021",
+      "schema:creditText":"GAM - Torino, 2021",
+      "image":"https://www.gamtorino.it/it/le-collezioni/catalogo-delle-opere-online-gam/gotine-rosse",
+      "maintainer":"GAM - Torino",
+      "schema:material":"Room: secondo piano",
+      "arco-cd:hasInventory":"GAM - Torino, 2021",
+      "caption":"Gotine rosse - Giovanni Fattori Livorno, 1825 - Firenze, 1908",
+      "title": "Gotine rosse - Giovanni Fattori Livorno, 1825 - Firenze, 1908",
+      "inventary": "Inventario: P/1016",
+      "colletion": "Ottocento - secondo piano",
+      "Soggetto": "",
+      "author": "Giovanni Fattori Livorno, 1825 - Firenze, 1908",
+      "year": "1882",
+      "Materiale e Tecnica": "olio su tavola",
+      "dimention": "cm 47,5 x 36,4",
+      "definition": "",
+      "Acquisizione": "Acquisto da Attilio Materazzi, Firenze, 1930",
+      "Note Blind": "Inventario: P/1016"
+   }
+]
+

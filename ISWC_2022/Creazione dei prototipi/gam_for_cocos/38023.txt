@@ -1,0 +1,4 @@
+horror:               0.9
+home:                 0.9
+movie:                0.9
+n.1:                  0.9

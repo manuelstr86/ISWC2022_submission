@@ -1,0 +1,9 @@
+amore:                0.9
+honorem:              0.6
+sacro:                0.6
+et:                   0.6
+profumo:              0.6
+pomeriggio:           0.6
+contenere:            0.6
+luchetti:             0.6
+daniele:              0.6

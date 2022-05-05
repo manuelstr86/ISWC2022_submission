@@ -1,0 +1,2 @@
+atto:                 0.9
+preghiera:            0.9

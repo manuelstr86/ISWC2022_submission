@@ -1,0 +1,4 @@
+film:                 0.9
+stenopeico:           0.9
+uomo:                 0.9
+macchina:             0.9

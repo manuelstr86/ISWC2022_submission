@@ -1,0 +1,4 @@
+reminiscences:        0.9
+of:                   0.9
+journey:              0.9
+to:                   0.9

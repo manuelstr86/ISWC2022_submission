@@ -1,0 +1,10 @@
+cruel: 0.9124666666666665
+weapon: 0.9081
+anybody: 0.9062
+bomber: 0.8968
+curtail: 0.891
+reject: 0.886
+attackers: 0.8807
+temperatures: 0.872
+overcome: 0.872
+lone: 0.8716

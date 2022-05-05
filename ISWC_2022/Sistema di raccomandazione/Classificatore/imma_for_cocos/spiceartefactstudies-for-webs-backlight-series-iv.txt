@@ -1,0 +1,15 @@
+is:                   0.9
+studies:              0.6
+for:                  0.6
+webs:                 0.6
+backlight:            0.6
+series:               0.6
+work:                 0.6
+by:                   0.6
+avis:                 0.6
+newman:               0.6
+it:                   0.6
+not:                  0.6
+currently:            0.6
+on:                   0.6
+display:              0.6

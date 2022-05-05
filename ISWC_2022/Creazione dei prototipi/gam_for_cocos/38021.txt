@@ -1,0 +1,2 @@
+les:                  0.9
+etrangers:            0.9

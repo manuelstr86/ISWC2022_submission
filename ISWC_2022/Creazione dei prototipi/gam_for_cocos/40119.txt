@@ -1,0 +1,3 @@
+mondo:                0.9
+totalità:             0.9
+fatto:                0.9

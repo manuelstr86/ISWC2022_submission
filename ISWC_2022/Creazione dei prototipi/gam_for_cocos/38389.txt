@@ -1,0 +1,5 @@
+nothing:              0.9
+change:               0.9
+na:                   0.9
+my:                   0.9
+world:                0.9

@@ -1,0 +1,9 @@
+oasis:                0.9
+dance:                0.9
+sipping:              0.9
+my:                   0.9
+desert:               0.9
+santa:                0.9
+new:                  0.9
+fe:                   0.9
+mexico:               0.9
