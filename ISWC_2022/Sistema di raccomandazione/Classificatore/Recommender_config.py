@@ -18,7 +18,7 @@ instanceTitle = ["caption"]
 instanceDescr = ["dc:description"]
 
 # prototypes folder path
-protPath = "/home/ubuntu/Desktop/degari/Degari_POST/Creazione dei prototipi/imma_for_cocos/"
+protPath = "ISWC_2022/Creazione dei prototipi/imma_for_cocos/"
 # "imma_for_cocos/"
 
 
