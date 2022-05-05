@@ -1,8 +1,8 @@
 
-<degari_config>
+<ISWC2022_config>
 	<configrations_items>
-		<prototypes_path>degari path prototipi </prototypes_path>
-		<imma_json_path> degari path imma json </imma_json_path>
+		<prototypes_path>ISWC2022 path prototipi </prototypes_path>
+		<imma_json_path> ISWC2022 path imma json </imma_json_path>
 	</configrations_items>
 
-</degari_config>
+</ISWC2022_config>

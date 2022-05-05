@@ -1,4 +1,4 @@
-# Config file for DEGARI's prototyper module
+# Config file for ISWC2022's prototyper module
 # Here are specified the features of a dataset
 #   in order to generate its artworks prototypes
 #   and the lemmatized description files

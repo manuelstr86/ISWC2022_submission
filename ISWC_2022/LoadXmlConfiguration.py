@@ -30,11 +30,11 @@ class XmlConfigDegari(object):
 
 
 def main():
-    degariConfig = XmlConfigDegari("degariConfig.xml")
-    degariConfig.parseConfig()
+    ISWC2022Config = XmlConfigDegari("ISWC2022Config.xml")
+    ISWC2022Config.parseConfig()
 
-    print("imma_json_path: " + degariConfig.get_imma_json_path())
-    print("prototypes_path: " + degariConfig.get_prototypes_path())
+    print("imma_json_path: " + ISWC2022Config.get_imma_json_path())
+    print("prototypes_path: " + ISWC2022Config.get_prototypes_path())
 
 
 if __name__ == '__main__':

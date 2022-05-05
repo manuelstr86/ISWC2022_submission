@@ -1,4 +1,4 @@
-# Config file for DEGARI's recommender module
+# Config file for ISWC2022's recommender module
 # Here are specified the features of a dataset in order to generate its recommendations
 
 
