@@ -1,4 +1,4 @@
-# ISW C2022 - submission
+# ISWC 2022 - submission
  ISWC 2022 - submission
 
 
