@@ -61,7 +61,7 @@ def main():
     logger.info('STEP 2: [CHANGE-DIR] - Sistema di raccomandazione/Classificatore/')
     command = './Launch_Recommender.sh ../prototipi_6'
     # step 4: Launch Launch_Recommender.sh ../prototipi_6 english
-    logger.info('STEP 3: [EXECUTE] ./Launch_Recommender.sh ../prototipi_6')
+    logger.info('STEP 3: [EXECUTE] ./Launch_Recommender.sh ../prototipi_it_6')
     os.system(command)
 
     os.chdir('../../')
